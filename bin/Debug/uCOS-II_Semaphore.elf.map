@@ -1,0 +1,2113 @@
+Archive member included because of file (symbol)
+
+c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_udivsi3.o)
+                              obj\Debug\S3C6410\source\speed.o (__aeabi_uidiv)
+c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_dvmd_tls.o)
+                              c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-sprintf.o)
+                              obj\Debug\S3C6410\source\uart.o (sprintf)
+c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-svfprintf.o)
+                              c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-sprintf.o) (_svfprintf_r)
+c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-vsprintf.o)
+                              obj\Debug\Printf\Printf.o (vsprintf)
+c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-dtoa.o)
+                              c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-svfprintf.o) (_dtoa_r)
+c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-impure.o)
+                              c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-sprintf.o) (_impure_ptr)
+c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-locale.o)
+                              c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-svfprintf.o) (_localeconv_r)
+c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mallocr.o)
+                              c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-svfprintf.o) (_malloc_r)
+c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-memchr.o)
+                              c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-svfprintf.o) (memchr)
+c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-memcpy.o)
+                              c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-dtoa.o) (memcpy)
+c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mlock.o)
+                              c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mallocr.o) (__malloc_lock)
+c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mprec.o)
+                              c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-dtoa.o) (_Balloc)
+c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-s_fpclassify.o)
+                              c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-svfprintf.o) (__fpclassifyd)
+c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-sbrkr.o)
+                              c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mallocr.o) (_sbrk_r)
+c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-strcmp.o)
+                              c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-locale.o) (strcmp)
+c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-strlen.o)
+                              c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-svfprintf.o) (strlen)
+c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-svfiprintf.o)
+                              c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-svfprintf.o) (__ssprint_r)
+c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-callocr.o)
+                              c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mprec.o) (_calloc_r)
+c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-freer.o)
+                              c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mallocr.o) (_free_r)
+c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-memmove.o)
+                              c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-svfiprintf.o) (memmove)
+c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-memset.o)
+                              c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-callocr.o) (memset)
+c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-reallocr.o)
+                              c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-svfiprintf.o) (_realloc_r)
+c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-reent.o)
+                              c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-sbrkr.o) (errno)
+c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_arm_addsubdf3.o)
+                              c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-dtoa.o) (__aeabi_dsub)
+c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_arm_muldivdf3.o)
+                              c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-dtoa.o) (__aeabi_dmul)
+c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_arm_cmpdf2.o)
+                              c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-svfprintf.o) (__aeabi_dcmpeq)
+c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_arm_fixdfsi.o)
+                              c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-dtoa.o) (__aeabi_d2iz)
+c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_aeabi_uldivmod.o)
+                              c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-svfprintf.o) (__aeabi_uldivmod)
+c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(bpabi.o)
+                              c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_aeabi_uldivmod.o) (__gnu_uldivmod_helper)
+c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_divdi3.o)
+                              c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(bpabi.o) (__divdi3)
+c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_udivdi3.o)
+                              c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(bpabi.o) (__udivdi3)
+c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_clzsi2.o)
+                              c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_divdi3.o) (__clzsi2)
+
+Allocating common symbols
+Common symbol       size              file
+
+TB                  0x4               obj\Debug\S3C6410\source\main_atc.o
+serviceAQ           0x4               obj\Debug\S3C6410\source\main_atc.o
+service_sem         0x4               obj\Debug\S3C6410\source\main_atc.o
+OSLockNesting       0x1               obj\Debug\uCOS_II\SOURCE\os_core.o
+wait_aisle_sem      0x4               obj\Debug\S3C6410\source\main_atc.o
+OSRunning           0x1               obj\Debug\uCOS_II\SOURCE\os_core.o
+serviceCQ           0x4               obj\Debug\S3C6410\source\main_atc.o
+OSIdleCtr           0x4               obj\Debug\uCOS_II\SOURCE\os_core.o
+OSPrioHighRdy       0x1               obj\Debug\uCOS_II\SOURCE\os_core.o
+errno               0x4               c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-reent.o)
+TD                  0x4               obj\Debug\S3C6410\source\main_atc.o
+max_capacity_sem    0x4               obj\Debug\S3C6410\source\main_atc.o
+lane                0x54              obj\Debug\S3C6410\source\main_atc.o
+B_sem               0x4               obj\Debug\S3C6410\source\main_atc.o
+OSFlagTbl           0x1c00            obj\Debug\uCOS_II\SOURCE\os_core.o
+done_sem            0x4               obj\Debug\S3C6410\source\main_atc.o
+OSPrioCur           0x1               obj\Debug\uCOS_II\SOURCE\os_core.o
+DepartStk           0x2000            obj\Debug\S3C6410\source\main_atc.o
+OSTCBList           0x4               obj\Debug\uCOS_II\SOURCE\os_core.o
+TerminalStk         0x2000            obj\Debug\S3C6410\source\main_atc.o
+OSMemTbl            0x2400            obj\Debug\uCOS_II\SOURCE\os_core.o
+OSTaskStatStk       0x200             obj\Debug\uCOS_II\SOURCE\os_core.o
+cap_sem             0x4               obj\Debug\S3C6410\source\main_atc.o
+OSCtxSwCtr          0x4               obj\Debug\uCOS_II\SOURCE\os_core.o
+fire_sem            0x4               obj\Debug\S3C6410\source\main_atc.o
+WaitStk             0x2000            obj\Debug\S3C6410\source\main_atc.o
+mutex2_sem          0x4               obj\Debug\S3C6410\source\main_atc.o
+OSIdleCtrMax        0x4               obj\Debug\uCOS_II\SOURCE\os_core.o
+ServiceStk          0x2000            obj\Debug\S3C6410\source\main_atc.o
+land                0x1               obj\Debug\S3C6410\source\main_atc.o
+TA                  0x4               obj\Debug\S3C6410\source\main_atc.o
+termC_sem           0x4               obj\Debug\S3C6410\source\main_atc.o
+ServiceAStk         0x2000            obj\Debug\S3C6410\source\main_atc.o
+OSTCBFreeList       0x4               obj\Debug\uCOS_II\SOURCE\os_core.o
+D_sem               0x4               obj\Debug\S3C6410\source\main_atc.o
+termD_sem           0x4               obj\Debug\S3C6410\source\main_atc.o
+aisle               0x4               obj\Debug\S3C6410\source\main_atc.o
+TaskUartStk         0x1000            obj\Debug\Printf\Printf.o
+waitaisle_msg       0x28              obj\Debug\S3C6410\source\main_atc.o
+OSCPUUsage          0x1               obj\Debug\uCOS_II\SOURCE\os_core.o
+OSTaskCtr           0x1               obj\Debug\uCOS_II\SOURCE\os_core.o
+serviceQ            0x4               obj\Debug\S3C6410\source\main_atc.o
+terminalCount       0x54              obj\Debug\S3C6410\source\main_atc.o
+OSMemFreeList       0x4               obj\Debug\uCOS_II\SOURCE\os_core.o
+planeCount          0x54              obj\Debug\S3C6410\source\main_atc.o
+airport_status      0x4               obj\Debug\S3C6410\source\main_atc.o
+OSQTbl              0x1800            obj\Debug\uCOS_II\SOURCE\os_core.o
+ServiceBStk         0x2000            obj\Debug\S3C6410\source\main_atc.o
+MainTaskStk         0x2000            obj\Debug\S3C6410\source\main.o
+termB_sem           0x4               obj\Debug\S3C6410\source\main_atc.o
+ServiceCStk         0x2000            obj\Debug\S3C6410\source\main_atc.o
+OSTCBHighRdy        0x4               obj\Debug\uCOS_II\SOURCE\os_core.o
+OSQFreeList         0x4               obj\Debug\uCOS_II\SOURCE\os_core.o
+OSRdyGrp            0x2               obj\Debug\uCOS_II\SOURCE\os_core.o
+mutex1_sem          0x4               obj\Debug\S3C6410\source\main_atc.o
+departB_sem         0x4               obj\Debug\S3C6410\source\main_atc.o
+serviceDQ           0x4               obj\Debug\S3C6410\source\main_atc.o
+serviceBQ           0x4               obj\Debug\S3C6410\source\main_atc.o
+departA_sem         0x4               obj\Debug\S3C6410\source\main_atc.o
+wait_sem            0x4               obj\Debug\S3C6410\source\main_atc.o
+C_sem               0x4               obj\Debug\S3C6410\source\main_atc.o
+OSRdyTbl            0x20              obj\Debug\uCOS_II\SOURCE\os_core.o
+termA_sem           0x4               obj\Debug\S3C6410\source\main_atc.o
+departure           0x4               obj\Debug\S3C6410\source\main_atc.o
+main_msg            0x50              obj\Debug\S3C6410\source\main_atc.o
+A_sem               0x4               obj\Debug\S3C6410\source\main_atc.o
+service_msg         0x10              obj\Debug\S3C6410\source\main_atc.o
+OSEventFreeList     0x4               obj\Debug\uCOS_II\SOURCE\os_core.o
+TC                  0x4               obj\Debug\S3C6410\source\main_atc.o
+OSIntNesting        0x1               obj\Debug\uCOS_II\SOURCE\os_core.o
+REG_LR_VALUE        0x4               obj\Debug\S3C6410\source\timer.o
+OSTCBCur            0x4               obj\Debug\uCOS_II\SOURCE\os_core.o
+OSTime              0x4               obj\Debug\uCOS_II\SOURCE\os_core.o
+OSTaskIdleStk       0x200             obj\Debug\uCOS_II\SOURCE\os_core.o
+OSEventTbl          0x3c00            obj\Debug\uCOS_II\SOURCE\os_core.o
+OSTCBTbl            0x14d8            obj\Debug\uCOS_II\SOURCE\os_core.o
+waitaisleQ          0x4               obj\Debug\S3C6410\source\main_atc.o
+ServiceDStk         0x2000            obj\Debug\S3C6410\source\main_atc.o
+OSFlagFreeList      0x4               obj\Debug\uCOS_II\SOURCE\os_core.o
+OSStatRdy           0x1               obj\Debug\uCOS_II\SOURCE\os_core.o
+OSTCBPrioTbl        0x3fc             obj\Debug\uCOS_II\SOURCE\os_core.o
+counts              0x14              obj\Debug\S3C6410\source\main_atc.o
+OSIdleCtrRun        0x4               obj\Debug\uCOS_II\SOURCE\os_core.o
+ATCStk              0x2000            obj\Debug\S3C6410\source\main_atc.o
+
+Discarded input sections
+
+ .data          0x00000000        0x0 obj\Debug\Printf\Printf.o
+ .text          0x00000000        0x0 obj\Debug\S3C6410\source\6410init.o
+ .data          0x00000000        0x0 obj\Debug\S3C6410\source\6410init.o
+ .bss           0x00000000        0x0 obj\Debug\S3C6410\source\6410init.o
+ .data          0x00000000        0x0 obj\Debug\S3C6410\source\6410slib.o
+ .bss           0x00000000        0x0 obj\Debug\S3C6410\source\6410slib.o
+ .data          0x00000000        0x0 obj\Debug\S3C6410\source\gpio.o
+ .bss           0x00000000        0x0 obj\Debug\S3C6410\source\gpio.o
+ .data          0x00000000        0x0 obj\Debug\S3C6410\source\main.o
+ .bss           0x00000000        0x0 obj\Debug\S3C6410\source\main.o
+ .data          0x00000000        0x0 obj\Debug\S3C6410\source\main_atc.o
+ .data          0x00000000        0x0 obj\Debug\S3C6410\source\malloc.o
+ .data          0x00000000        0x0 obj\Debug\S3C6410\source\mmu.o
+ .bss           0x00000000        0x0 obj\Debug\S3C6410\source\mmu.o
+ .data          0x00000000        0x0 obj\Debug\S3C6410\source\speed.o
+ .bss           0x00000000        0x0 obj\Debug\S3C6410\source\speed.o
+ .data          0x00000000        0x0 obj\Debug\S3C6410\source\timer.o
+ COMMON         0x00000000        0x4 obj\Debug\S3C6410\source\timer.o
+ .data          0x00000000        0x0 obj\Debug\S3C6410\source\uart.o
+ .data          0x00000000        0x0 obj\Debug\uCOS_II\arm\os_cpu_a.o
+ .bss           0x00000000        0x0 obj\Debug\uCOS_II\arm\os_cpu_a.o
+ .data          0x00000000        0x0 obj\Debug\uCOS_II\arm\Os_cpu_c.o
+ .bss           0x00000000        0x0 obj\Debug\uCOS_II\arm\Os_cpu_c.o
+ .text          0x00000000      0x200 obj\Debug\uCOS_II\SOURCE\API\os_api.o
+ .data          0x00000000        0x0 obj\Debug\uCOS_II\SOURCE\API\os_api.o
+ .bss           0x00000000        0x0 obj\Debug\uCOS_II\SOURCE\API\os_api.o
+ .debug_info    0x00000000      0x271 obj\Debug\uCOS_II\SOURCE\API\os_api.o
+ .debug_abbrev  0x00000000       0xf0 obj\Debug\uCOS_II\SOURCE\API\os_api.o
+ .debug_loc     0x00000000       0xdc obj\Debug\uCOS_II\SOURCE\API\os_api.o
+ .debug_aranges
+                0x00000000       0x20 obj\Debug\uCOS_II\SOURCE\API\os_api.o
+ .debug_line    0x00000000      0x13f obj\Debug\uCOS_II\SOURCE\API\os_api.o
+ .debug_str     0x00000000      0x1d3 obj\Debug\uCOS_II\SOURCE\API\os_api.o
+ .comment       0x00000000       0x71 obj\Debug\uCOS_II\SOURCE\API\os_api.o
+ .ARM.attributes
+                0x00000000       0x38 obj\Debug\uCOS_II\SOURCE\API\os_api.o
+ .debug_frame   0x00000000       0x9c obj\Debug\uCOS_II\SOURCE\API\os_api.o
+ .data          0x00000000        0x0 obj\Debug\uCOS_II\SOURCE\os_core.o
+ .bss           0x00000000        0x0 obj\Debug\uCOS_II\SOURCE\os_core.o
+ .text          0x00000000        0x0 obj\Debug\uCOS_II\SOURCE\os_dbg_r.o
+ .data          0x00000000        0x0 obj\Debug\uCOS_II\SOURCE\os_dbg_r.o
+ .bss           0x00000000        0x0 obj\Debug\uCOS_II\SOURCE\os_dbg_r.o
+ .rodata        0x00000000        0x2 obj\Debug\uCOS_II\SOURCE\os_dbg_r.o
+ .debug_info    0x00000000       0x7b obj\Debug\uCOS_II\SOURCE\os_dbg_r.o
+ .debug_abbrev  0x00000000       0x49 obj\Debug\uCOS_II\SOURCE\os_dbg_r.o
+ .debug_aranges
+                0x00000000       0x18 obj\Debug\uCOS_II\SOURCE\os_dbg_r.o
+ .debug_line    0x00000000       0xa4 obj\Debug\uCOS_II\SOURCE\os_dbg_r.o
+ .debug_str     0x00000000       0xf2 obj\Debug\uCOS_II\SOURCE\os_dbg_r.o
+ .comment       0x00000000       0x71 obj\Debug\uCOS_II\SOURCE\os_dbg_r.o
+ .ARM.attributes
+                0x00000000       0x38 obj\Debug\uCOS_II\SOURCE\os_dbg_r.o
+ .data          0x00000000        0x0 obj\Debug\uCOS_II\SOURCE\os_flag.o
+ .bss           0x00000000        0x0 obj\Debug\uCOS_II\SOURCE\os_flag.o
+ .text          0x00000000      0x8c4 obj\Debug\uCOS_II\SOURCE\os_mbox.o
+ .data          0x00000000        0x0 obj\Debug\uCOS_II\SOURCE\os_mbox.o
+ .bss           0x00000000        0x0 obj\Debug\uCOS_II\SOURCE\os_mbox.o
+ .debug_info    0x00000000      0x6a8 obj\Debug\uCOS_II\SOURCE\os_mbox.o
+ .debug_abbrev  0x00000000      0x143 obj\Debug\uCOS_II\SOURCE\os_mbox.o
+ .debug_loc     0x00000000      0x134 obj\Debug\uCOS_II\SOURCE\os_mbox.o
+ .debug_aranges
+                0x00000000       0x20 obj\Debug\uCOS_II\SOURCE\os_mbox.o
+ .debug_line    0x00000000      0x1aa obj\Debug\uCOS_II\SOURCE\os_mbox.o
+ .debug_str     0x00000000      0x41f obj\Debug\uCOS_II\SOURCE\os_mbox.o
+ .comment       0x00000000       0x71 obj\Debug\uCOS_II\SOURCE\os_mbox.o
+ .ARM.attributes
+                0x00000000       0x38 obj\Debug\uCOS_II\SOURCE\os_mbox.o
+ .debug_frame   0x00000000       0xd4 obj\Debug\uCOS_II\SOURCE\os_mbox.o
+ .data          0x00000000        0x0 obj\Debug\uCOS_II\SOURCE\os_mem.o
+ .bss           0x00000000        0x0 obj\Debug\uCOS_II\SOURCE\os_mem.o
+ .text          0x00000000     0x1100 obj\Debug\uCOS_II\SOURCE\os_mutex.o
+ .data          0x00000000        0x0 obj\Debug\uCOS_II\SOURCE\os_mutex.o
+ .bss           0x00000000        0x0 obj\Debug\uCOS_II\SOURCE\os_mutex.o
+ .debug_info    0x00000000      0x786 obj\Debug\uCOS_II\SOURCE\os_mutex.o
+ .debug_abbrev  0x00000000      0x175 obj\Debug\uCOS_II\SOURCE\os_mutex.o
+ .debug_loc     0x00000000      0x134 obj\Debug\uCOS_II\SOURCE\os_mutex.o
+ .debug_aranges
+                0x00000000       0x20 obj\Debug\uCOS_II\SOURCE\os_mutex.o
+ .debug_line    0x00000000      0x20c obj\Debug\uCOS_II\SOURCE\os_mutex.o
+ .debug_str     0x00000000      0x47d obj\Debug\uCOS_II\SOURCE\os_mutex.o
+ .comment       0x00000000       0x71 obj\Debug\uCOS_II\SOURCE\os_mutex.o
+ .ARM.attributes
+                0x00000000       0x38 obj\Debug\uCOS_II\SOURCE\os_mutex.o
+ .debug_frame   0x00000000       0xd0 obj\Debug\uCOS_II\SOURCE\os_mutex.o
+ .data          0x00000000        0x0 obj\Debug\uCOS_II\SOURCE\os_q.o
+ .bss           0x00000000        0x0 obj\Debug\uCOS_II\SOURCE\os_q.o
+ .data          0x00000000        0x0 obj\Debug\uCOS_II\SOURCE\os_sem.o
+ .bss           0x00000000        0x0 obj\Debug\uCOS_II\SOURCE\os_sem.o
+ .data          0x00000000        0x0 obj\Debug\uCOS_II\SOURCE\os_task.o
+ .bss           0x00000000        0x0 obj\Debug\uCOS_II\SOURCE\os_task.o
+ .data          0x00000000        0x0 obj\Debug\uCOS_II\SOURCE\os_time.o
+ .bss           0x00000000        0x0 obj\Debug\uCOS_II\SOURCE\os_time.o
+ .text          0x00000000        0x0 obj\Debug\uCOS_II\SOURCE\os_tmr.o
+ .data          0x00000000        0x0 obj\Debug\uCOS_II\SOURCE\os_tmr.o
+ .bss           0x00000000        0x0 obj\Debug\uCOS_II\SOURCE\os_tmr.o
+ .debug_info    0x00000000       0x59 obj\Debug\uCOS_II\SOURCE\os_tmr.o
+ .debug_abbrev  0x00000000       0x24 obj\Debug\uCOS_II\SOURCE\os_tmr.o
+ .debug_aranges
+                0x00000000       0x18 obj\Debug\uCOS_II\SOURCE\os_tmr.o
+ .debug_line    0x00000000       0x1d obj\Debug\uCOS_II\SOURCE\os_tmr.o
+ .debug_str     0x00000000       0xdf obj\Debug\uCOS_II\SOURCE\os_tmr.o
+ .comment       0x00000000       0x71 obj\Debug\uCOS_II\SOURCE\os_tmr.o
+ .ARM.attributes
+                0x00000000       0x38 obj\Debug\uCOS_II\SOURCE\os_tmr.o
+ .data          0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_udivsi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_udivsi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_dvmd_tls.o)
+ .text          0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-sprintf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-sprintf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-sprintf.o)
+ .text._sprintf_r
+                0x00000000       0x68 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-sprintf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-svfprintf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-svfprintf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-svfprintf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-vsprintf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-vsprintf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-vsprintf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-dtoa.o)
+ .data          0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-dtoa.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-dtoa.o)
+ .text          0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-impure.o)
+ .text          0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-locale.o)
+ .data          0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-locale.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-locale.o)
+ .text._setlocale_r
+                0x00000000       0x6c c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-locale.o)
+ .text.__locale_charset
+                0x00000000        0xc c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-locale.o)
+ .text.__locale_mb_cur_max
+                0x00000000       0x10 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-locale.o)
+ .text.__locale_msgcharset
+                0x00000000        0xc c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-locale.o)
+ .text.__locale_cjk_lang
+                0x00000000        0x8 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-locale.o)
+ .text.setlocale
+                0x00000000       0x1c c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-locale.o)
+ .text.localeconv
+                0x00000000        0xc c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-locale.o)
+ .data.lc_message_charset
+                0x00000000       0x20 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-locale.o)
+ .bss._PathLocale
+                0x00000000        0x4 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-locale.o)
+ .bss.__nlocale_changed
+                0x00000000        0x4 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-locale.o)
+ .bss.__mlocale_changed
+                0x00000000        0x4 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-locale.o)
+ .data.lc_ctype_charset
+                0x00000000       0x20 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-locale.o)
+ .data.__mb_cur_max
+                0x00000000        0x4 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-locale.o)
+ .text          0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mallocr.o)
+ .data          0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mallocr.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mallocr.o)
+ .text          0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-memchr.o)
+ .data          0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-memchr.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-memchr.o)
+ .text          0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-memcpy.o)
+ .data          0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-memcpy.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-memcpy.o)
+ .text          0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mlock.o)
+ .data          0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mlock.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mlock.o)
+ .text          0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mprec.o)
+ .data          0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mprec.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mprec.o)
+ .text.__s2b    0x00000000       0xf0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mprec.o)
+ .text.__ulp    0x00000000       0x64 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mprec.o)
+ .text.__b2d    0x00000000       0xcc c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mprec.o)
+ .text.__ratio  0x00000000       0x90 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mprec.o)
+ .text._mprec_log10
+                0x00000000       0x50 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mprec.o)
+ .text.__copybits
+                0x00000000       0x74 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mprec.o)
+ .text.__any_on
+                0x00000000       0x88 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mprec.o)
+ .rodata.__mprec_tinytens
+                0x00000000       0x28 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mprec.o)
+ .text          0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-s_fpclassify.o)
+ .data          0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-s_fpclassify.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-s_fpclassify.o)
+ .text          0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-sbrkr.o)
+ .data          0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-sbrkr.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-sbrkr.o)
+ .text          0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-strcmp.o)
+ .data          0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-strcmp.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-strcmp.o)
+ .text.strcmp   0x00000000       0x94 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-strcmp.o)
+ .text.strcmp_unaligned
+                0x00000000      0x19c c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-strcmp.o)
+ .ARM.attributes
+                0x00000000       0x30 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-strcmp.o)
+ .debug_frame   0x00000000       0x30 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-strcmp.o)
+ .text          0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-strlen.o)
+ .data          0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-strlen.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-strlen.o)
+ .text          0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-svfiprintf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-svfiprintf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-svfiprintf.o)
+ .text._svfiprintf_r
+                0x00000000     0x1080 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-svfiprintf.o)
+ .rodata.zeroes.6665
+                0x00000000       0x10 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-svfiprintf.o)
+ .rodata.str1.4
+                0x00000000       0x30 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-svfiprintf.o)
+ .rodata.blanks.6664
+                0x00000000       0x10 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-svfiprintf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-callocr.o)
+ .data          0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-callocr.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-callocr.o)
+ .text          0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-freer.o)
+ .data          0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-freer.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-freer.o)
+ .text          0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-memmove.o)
+ .data          0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-memmove.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-memmove.o)
+ .text          0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-memset.o)
+ .text          0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-reallocr.o)
+ .data          0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-reallocr.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-reallocr.o)
+ .text          0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-reent.o)
+ .data          0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-reent.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x00000000       0x2c c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x00000000       0xfc c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-reent.o)
+ .text._wrapup_reent
+                0x00000000       0x74 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-reent.o)
+ .data          0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_arm_addsubdf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_arm_addsubdf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_arm_muldivdf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_arm_muldivdf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_arm_cmpdf2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_arm_cmpdf2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_arm_fixdfsi.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_arm_fixdfsi.o)
+ .data          0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_aeabi_uldivmod.o)
+ .data          0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(bpabi.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(bpabi.o)
+ .data          0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_divdi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_divdi3.o)
+ .ARM.extab     0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_divdi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_udivdi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_udivdi3.o)
+ .ARM.extab     0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_udivdi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_clzsi2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_clzsi2.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+SRAM             0x50000000         0x08000000         xw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD obj\Debug\Printf\Printf.o
+LOAD obj\Debug\S3C6410\source\6410init.o
+LOAD obj\Debug\S3C6410\source\6410slib.o
+LOAD obj\Debug\S3C6410\source\gpio.o
+LOAD obj\Debug\S3C6410\source\main.o
+LOAD obj\Debug\S3C6410\source\main_atc.o
+LOAD obj\Debug\S3C6410\source\malloc.o
+LOAD obj\Debug\S3C6410\source\mmu.o
+LOAD obj\Debug\S3C6410\source\speed.o
+LOAD obj\Debug\S3C6410\source\timer.o
+LOAD obj\Debug\S3C6410\source\uart.o
+LOAD obj\Debug\uCOS_II\arm\os_cpu_a.o
+LOAD obj\Debug\uCOS_II\arm\Os_cpu_c.o
+LOAD obj\Debug\uCOS_II\SOURCE\API\os_api.o
+LOAD obj\Debug\uCOS_II\SOURCE\os_core.o
+LOAD obj\Debug\uCOS_II\SOURCE\os_dbg_r.o
+LOAD obj\Debug\uCOS_II\SOURCE\os_flag.o
+LOAD obj\Debug\uCOS_II\SOURCE\os_mbox.o
+LOAD obj\Debug\uCOS_II\SOURCE\os_mem.o
+LOAD obj\Debug\uCOS_II\SOURCE\os_mutex.o
+LOAD obj\Debug\uCOS_II\SOURCE\os_q.o
+LOAD obj\Debug\uCOS_II\SOURCE\os_sem.o
+LOAD obj\Debug\uCOS_II\SOURCE\os_task.o
+LOAD obj\Debug\uCOS_II\SOURCE\os_time.o
+LOAD obj\Debug\uCOS_II\SOURCE\os_tmr.o
+START GROUP
+LOAD c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a
+LOAD c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a
+END GROUP
+                0x50000000                __SRAM_segment_start__ = 0x50000000
+                0x58000000                __SRAM_segment_end__ = 0x58000000
+                0x04000000                __HEAPSIZE__ = 0x4000000
+                0x00000000                __STACKSIZE_ABT__ = 0x0
+                0x00000100                __STACKSIZE_FIQ__ = 0x100
+                0x00000100                __STACKSIZE_IRQ__ = 0x100
+                0x00000000                __STACKSIZE_SVC__ = 0x0
+                0x00000000                __STACKSIZE_UND__ = 0x0
+                0x00000400                __STACKSIZE__ = 0x400
+                0x50000000                __init_load_start__ = ALIGN (__SRAM_segment_start__, 0x4)
+
+.init           0x50000000      0x1a0
+                0x50000000                __init_start__ = .
+ *(.init .init.* .fini)
+ .init          0x50000000      0x1a0 obj\Debug\S3C6410\source\6410init.o
+                0x50000000                __ENTRY
+                0x500001a0                __init_end__ = (__init_start__ + SIZEOF (.init))
+                0x500001a0                __init_load_end__ = __init_end__
+                0x500001a0                __text_load_start__ = ALIGN (__init_end__, 0x4)
+
+.text           0x500001a0    0x1178c
+                0x500001a0                __text_start__ = .
+ *(.text .text.* .glue_7t .glue_7 .gnu.linkonce.t.* .gcc_except_table .ARM.extab* .gnu.linkonce.armextab.*)
+ .glue_7        0x00000000        0x0 linker stubs
+ .glue_7t       0x00000000        0x0 linker stubs
+ .text          0x500001a0      0x170 obj\Debug\Printf\Printf.o
+                0x500001a0                OSPrintfInit
+                0x50000218                OSPrintf
+                0x50000288                TaskUart
+ .text          0x50000310      0x1a4 obj\Debug\S3C6410\source\6410slib.o
+                0x50000310                SDRAMtest
+                0x50000330                SET_IF
+                0x50000344                WR_IF
+                0x5000034c                CLR_IF
+                0x5000035c                MMU_EnableICache
+                0x5000036c                MMU_DisableICache
+                0x5000037c                MMU_EnableDCache
+                0x5000038c                MMU_DisableDCache
+                0x5000039c                MMU_EnableAlignFault
+                0x500003ac                MMU_DisableAlignFault
+                0x500003bc                MMU_EnableMMU
+                0x500003cc                MMU_DisableMMU
+                0x500003dc                MMU_SetFastBusMode
+                0x500003ec                MMU_SetAsyncBusMode
+                0x500003fc                MMU_SetTTBase
+                0x50000404                MMU_SetDomain
+                0x5000040c                MMU_InvalidateIDCache
+                0x50000414                MMU_InvalidateICache
+                0x5000041c                MMU_InvalidateICacheMVA
+                0x50000424                MMU_PrefetchICacheMVA
+                0x5000042c                MMU_InvalidateDCache
+                0x50000434                MMU_InvalidateDCacheMVA
+                0x5000043c                MMU_CleanDCacheMVA
+                0x50000444                MMU_CleanInvalidateDCacheMVA
+                0x5000044c                MMU_CleanDCacheIndex
+                0x50000454                MMU_CleanInvalidateDCacheIndex
+                0x5000045c                MMU_WaitForInterrupt
+                0x50000464                MMU_InvalidateTLB
+                0x5000046c                MMU_InvalidateITLB
+                0x50000474                MMU_InvalidateITLBMVA
+                0x5000047c                MMU_InvalidateDTLB
+                0x50000484                MMU_InvalidateDTLBMVA
+                0x5000048c                MMU_SetDCacheLockdownBase
+                0x50000494                MMU_SetICacheLockdownBase
+                0x5000049c                MMU_SetDTLBLockdown
+                0x500004a4                MMU_SetITLBLockdown
+                0x500004ac                MMU_SetProcessId
+ .text          0x500004b4      0x3a0 obj\Debug\S3C6410\source\gpio.o
+                0x500004b4                Port_Init
+                0x5000066c                Led_Display
+                0x500006b4                LedE_Display
+                0x500006f8                LedM_Display
+                0x50000738                LedQ_Display
+                0x5000077c                buzzer
+                0x500007c0                Get_Key_Input
+ .text          0x50000854       0x58 obj\Debug\S3C6410\source\main.o
+                0x50000854                main
+ .text          0x500008ac     0x2058 obj\Debug\S3C6410\source\main_atc.o
+                0x500008ac                MainTask
+                0x50000d14                ATC
+                0x50001008                wait_aisle
+                0x50001290                Terminal
+                0x50001924                Service
+                0x50001b28                ServiceA
+                0x50001d7c                ServiceB
+                0x50001fc8                ServiceC
+                0x50002214                ServiceD
+                0x50002460                Depart
+                0x5000264c                status
+                0x50002824                LED_status
+ .text          0x50002904      0x99c obj\Debug\S3C6410\source\malloc.o
+                0x50002a7c                free_mem
+                0x50002c34                alloc_mem
+                0x50002dac                copy_mem
+                0x50002e3c                realloc_mem
+                0x50002ef4                max_hole
+                0x50002f68                mem_init
+                0x5000308c                check_memory
+                0x50003200                _sbrk
+ .text          0x500032a0      0x380 obj\Debug\S3C6410\source\mmu.o
+                0x500032a0                MMU_Init
+                0x500034ac                ChangeRomCacheStatus
+                0x50003570                MMU_SetMTT
+ .text          0x50003620      0x184 obj\Debug\S3C6410\source\speed.o
+                0x500036f0                get_FCLK
+                0x5000370c                get_PCLK
+ .text          0x500037a4      0x278 obj\Debug\S3C6410\source\timer.o
+                0x500037c4                Timer4_ISR
+                0x5000381c                timer_init
+                0x5000391c                ISRInit
+ .text          0x50003a1c      0x248 obj\Debug\S3C6410\source\uart.o
+                0x50003a50                Uart_putc
+                0x50003af4                Uart_init
+                0x50003b98                Uart_SendString
+                0x50003be0                Uart_SendHex
+                0x50003c1c                Uart_Printf
+ .text          0x50003c64      0x1cc obj\Debug\uCOS_II\arm\os_cpu_a.o
+                0x50003c64                OSStartHighRdy
+                0x50003c90                OSCtxSw
+                0x50003ce8                OSTickISR
+                0x50003d18                OSIntCtxSw
+                0x50003d54                OS_CPU_IRQ_ISR
+                0x50003dd4                OSCPUSaveSR
+                0x50003df4                OSCPURestoreSR
+                0x50003dfc                OSCPUEnableIrq
+                0x50003e0c                OSCPUGetSR
+ .text          0x50003e30      0x36c obj\Debug\uCOS_II\arm\Os_cpu_c.o
+                0x50003e30                get_x
+                0x50003ea0                get_int_vect
+                0x50003f24                OSTaskStkInit
+                0x500040d0                OSInitHookBegin
+                0x500040e4                OSInitHookEnd
+                0x500040f8                OSTaskCreateHook
+                0x50004114                OSTaskDelHook
+                0x50004130                OSTaskSwHook
+                0x50004144                OSTaskStatHook
+                0x50004158                OSTCBInitHook
+                0x50004174                OSTimeTickHook
+                0x50004188                OSTaskIdleHook
+ .text          0x5000419c     0x19fc obj\Debug\uCOS_II\SOURCE\os_core.o
+                0x5000419c                OSEventNameGet
+                0x50004284                OSEventNameSet
+                0x50004388                OSInit
+                0x500043c0                OSIntEnter
+                0x50004414                OSIntExit
+                0x5000451c                OSSchedLock
+                0x5000459c                OSSchedUnlock
+                0x50004654                OSStart
+                0x500046cc                OSStatInit
+                0x5000474c                OSTimeTick
+                0x500048e4                OSVersion
+                0x50004904                OS_Dummy
+                0x50004918                OS_EventTaskRdy
+                0x50004bd0                OS_EventTaskWait
+                0x50004d44                OS_EventTO
+                0x50004e6c                OS_EventWaitListInit
+                0x50005304                OS_MemClr
+                0x5000535c                OS_MemCopy
+                0x500053c8                OS_Sched
+                0x500055ac                OS_StrCopy
+                0x50005630                OS_StrLen
+                0x50005688                OS_TaskIdle
+                0x500056d0                OS_TaskStat
+                0x500057fc                OS_TaskStatStkChk
+                0x500058b4                OS_TCBInit
+ .text          0x50005b98     0x1688 obj\Debug\uCOS_II\SOURCE\os_flag.o
+                0x50005b98                OSFlagAccept
+                0x50005e8c                OSFlagCreate
+                0x50005f98                OSFlagDel
+                0x500061fc                OSFlagNameGet
+                0x500062fc                OSFlagNameSet
+                0x50006414                OSFlagPend
+                0x5000695c                OSFlagPendGetFlagsRdy
+                0x500069a4                OSFlagPost
+                0x50006d14                OSFlagQuery
+                0x50006f88                OS_FlagInit
+                0x50007170                OS_FlagUnlink
+ .text          0x50007220      0x704 obj\Debug\uCOS_II\SOURCE\os_mem.o
+                0x50007220                OSMemCreate
+                0x50007430                OSMemGet
+                0x50007508                OSMemNameGet
+                0x500075dc                OSMemNameSet
+                0x500076c8                OSMemPut
+                0x50007784                OSMemQuery
+                0x50007854                OS_MemInit
+ .text          0x50007924      0xea8 obj\Debug\uCOS_II\SOURCE\os_q.o
+                0x50007924                OSQAccept
+                0x50007a54                OSQCreate
+                0x50007bf8                OSQDel
+                0x50007ea4                OSQFlush
+                0x50007f40                OSQPend
+                0x500081a4                OSQPost
+                0x500082d0                OSQPostFront
+                0x50008404                OSQPostOpt
+                0x500085e0                OSQQuery
+                0x50008730                OS_QInit
+ .text          0x500087cc      0x848 obj\Debug\uCOS_II\SOURCE\os_sem.o
+                0x500087cc                OSSemAccept
+                0x50008860                OSSemCreate
+                0x5000893c                OSSemDel
+                0x50008b94                OSSemPend
+                0x50008d58                OSSemPost
+                0x50008e30                OSSemQuery
+                0x50008f30                OSSemSet
+ .text          0x50009014     0x14e0 obj\Debug\uCOS_II\SOURCE\os_task.o
+                0x50009014                OSTaskChangePrio
+                0x50009424                OSTaskCreate
+                0x50009570                OSTaskCreateExt
+                0x500096d0                OSTaskDel
+                0x50009acc                OSTaskDelReq
+                0x50009bcc                OSTaskNameGet
+                0x50009d1c                OSTaskNameSet
+                0x50009e80                OSTaskResume
+                0x50009ffc                OSTaskStkChk
+                0x5000a19c                OSTaskSuspend
+                0x5000a388                OSTaskQuery
+                0x5000a478                OS_TaskStkClr
+ .text          0x5000a4f4      0x490 obj\Debug\uCOS_II\SOURCE\os_time.o
+                0x5000a4f4                OSTimeDly
+                0x5000a608                OSTimeDlyHMSM
+                0x5000a764                OSTimeDlyResume
+                0x5000a900                OSTimeGet
+                0x5000a944                OSTimeSet
+ .text          0x5000a984      0x114 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_udivsi3.o)
+                0x5000a984                __aeabi_uidiv
+                0x5000a984                __udivsi3
+                0x5000aa78                __aeabi_uidivmod
+ .text          0x5000aa98        0x4 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_dvmd_tls.o)
+                0x5000aa98                __aeabi_idiv0
+                0x5000aa98                __aeabi_ldiv0
+ .text.sprintf  0x5000aa9c       0x74 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-sprintf.o)
+                0x5000aa9c                sprintf
+ .text._svfprintf_r
+                0x5000ab10     0x1f80 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-svfprintf.o)
+                0x5000ab10                _svfprintf_r
+ .text._vsprintf_r
+                0x5000ca90       0x50 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-vsprintf.o)
+                0x5000ca90                _vsprintf_r
+ .text.vsprintf
+                0x5000cae0       0x2c c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-vsprintf.o)
+                0x5000cae0                vsprintf
+ .text.quorem   0x5000cb0c      0x1e0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-dtoa.o)
+ *fill*         0x5000ccec        0x4 00
+ .text._dtoa_r  0x5000ccf0     0x1698 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-dtoa.o)
+                0x5000ccf0                _dtoa_r
+ .text._localeconv_r
+                0x5000e388        0xc c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-locale.o)
+                0x5000e388                _localeconv_r
+ .text._malloc_r
+                0x5000e394      0x73c c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mallocr.o)
+                0x5000e394                _malloc_r
+ .text.memchr   0x5000ead0      0x11c c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-memchr.o)
+                0x5000ead0                memchr
+ .text.memcpy   0x5000ebec       0xf4 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-memcpy.o)
+                0x5000ebec                memcpy
+ .text.__malloc_lock
+                0x5000ece0        0x4 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mlock.o)
+                0x5000ece0                __malloc_lock
+ .text.__malloc_unlock
+                0x5000ece4        0x4 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mlock.o)
+                0x5000ece4                __malloc_unlock
+ .text._Balloc  0x5000ece8       0x8c c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mprec.o)
+                0x5000ece8                _Balloc
+ .text._Bfree   0x5000ed74       0x1c c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mprec.o)
+                0x5000ed74                _Bfree
+ .text.__multadd
+                0x5000ed90       0xdc c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mprec.o)
+                0x5000ed90                __multadd
+ .text.__hi0bits
+                0x5000ee6c       0x50 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mprec.o)
+                0x5000ee6c                __hi0bits
+ .text.__lo0bits
+                0x5000eebc       0x94 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mprec.o)
+                0x5000eebc                __lo0bits
+ .text.__i2b    0x5000ef50       0x24 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mprec.o)
+                0x5000ef50                __i2b
+ .text.__multiply
+                0x5000ef74      0x1e4 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mprec.o)
+                0x5000ef74                __multiply
+ .text.__pow5mult
+                0x5000f158       0xf4 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mprec.o)
+                0x5000f158                __pow5mult
+ .text.__lshift
+                0x5000f24c      0x104 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mprec.o)
+                0x5000f24c                __lshift
+ .text.__mcmp   0x5000f350       0x64 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mprec.o)
+                0x5000f350                __mcmp
+ .text.__mdiff  0x5000f3b4      0x14c c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mprec.o)
+                0x5000f3b4                __mdiff
+ .text.__d2b    0x5000f500      0x108 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mprec.o)
+                0x5000f500                __d2b
+ .text.__fpclassifyd
+                0x5000f608       0x6c c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-s_fpclassify.o)
+                0x5000f608                __fpclassifyd
+ .text._sbrk_r  0x5000f674       0x40 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-sbrkr.o)
+                0x5000f674                _sbrk_r
+ .text.strlen   0x5000f6b4       0x60 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-strlen.o)
+                0x5000f6b4                strlen
+ .text.__ssprint_r
+                0x5000f714      0x1a4 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-svfiprintf.o)
+                0x5000f714                __ssprint_r
+ .text._calloc_r
+                0x5000f8b8       0x94 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-callocr.o)
+                0x5000f8b8                _calloc_r
+ .text._malloc_trim_r
+                0x5000f94c       0xfc c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-freer.o)
+                0x5000f94c                _malloc_trim_r
+ .text._free_r  0x5000fa48      0x26c c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-freer.o)
+                0x5000fa48                _free_r
+ .text.memmove  0x5000fcb4      0x134 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-memmove.o)
+                0x5000fcb4                memmove
+ .text.memset   0x5000fde8       0xf8 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-memset.o)
+                0x5000fde8                memset
+ .text._realloc_r
+                0x5000fee0      0x574 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-reallocr.o)
+                0x5000fee0                _realloc_r
+ .text          0x50010454      0x41c c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_arm_addsubdf3.o)
+                0x50010454                __aeabi_drsub
+                0x5001045c                __aeabi_dsub
+                0x5001045c                __subdf3
+                0x50010460                __aeabi_dadd
+                0x50010460                __adddf3
+                0x50010770                __floatunsidf
+                0x50010770                __aeabi_ui2d
+                0x50010794                __floatsidf
+                0x50010794                __aeabi_i2d
+                0x500107bc                __aeabi_f2d
+                0x500107bc                __extendsfdf2
+                0x500107fc                __floatundidf
+                0x500107fc                __aeabi_ul2d
+                0x50010810                __floatdidf
+                0x50010810                __aeabi_l2d
+ .text          0x50010870      0x49c c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_arm_muldivdf3.o)
+                0x50010870                __aeabi_dmul
+                0x50010870                __muldf3
+                0x50010b00                __divdf3
+                0x50010b00                __aeabi_ddiv
+ .text          0x50010d0c      0x144 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_arm_cmpdf2.o)
+                0x50010d0c                __gtdf2
+                0x50010d0c                __gedf2
+                0x50010d14                __ltdf2
+                0x50010d14                __ledf2
+                0x50010d1c                __nedf2
+                0x50010d1c                __eqdf2
+                0x50010d1c                __cmpdf2
+                0x50010da4                __aeabi_cdrcmple
+                0x50010dc0                __aeabi_cdcmpeq
+                0x50010dc0                __aeabi_cdcmple
+                0x50010dd8                __aeabi_dcmpeq
+                0x50010df0                __aeabi_dcmplt
+                0x50010e08                __aeabi_dcmple
+                0x50010e20                __aeabi_dcmpge
+                0x50010e38                __aeabi_dcmpgt
+ .text          0x50010e50       0x5c c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_arm_fixdfsi.o)
+                0x50010e50                __aeabi_d2iz
+                0x50010e50                __fixdfsi
+ .text          0x50010eac       0x3c c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_aeabi_uldivmod.o)
+                0x50010eac                __aeabi_uldivmod
+ .text          0x50010ee8       0x84 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(bpabi.o)
+                0x50010ee8                __gnu_ldivmod_helper
+                0x50010f2c                __gnu_uldivmod_helper
+ .text          0x50010f6c      0x4f0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_divdi3.o)
+                0x50010f6c                __divdi3
+ .text          0x5001145c      0x488 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_udivdi3.o)
+                0x5001145c                __udivdi3
+ .text          0x500118e4       0x48 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_clzsi2.o)
+                0x500118e4                __clzsi2
+                0x5001192c                __text_end__ = (__text_start__ + SIZEOF (.text))
+                0x5001192c                __text_load_end__ = __text_end__
+                0x5001192c                __dtors_load_start__ = ALIGN (__text_end__, 0x4)
+
+.vfp11_veneer   0x50000000        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x50000000        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x50000000        0x0
+ .iplt          0x00000000        0x0 obj\Debug\Printf\Printf.o
+
+.dtors          0x5001192c        0x0
+                0x5001192c                __dtors_start__ = .
+ *(SORT(.dtors.*))
+ *(.dtors)
+ *(.fini_array .fini_array.*)
+                0x5001192c                __dtors_end__ = (__dtors_start__ + SIZEOF (.dtors))
+                0x5001192c                __dtors_load_end__ = __dtors_end__
+                0x5001192c                __ctors_load_start__ = ALIGN (__dtors_end__, 0x4)
+
+.ctors          0x5001192c        0x0
+                0x5001192c                __ctors_start__ = .
+ *(SORT(.ctors.*))
+ *(.ctors)
+ *(.init_array .init_array.*)
+                0x5001192c                __ctors_end__ = (__ctors_start__ + SIZEOF (.ctors))
+                0x5001192c                __ctors_load_end__ = __ctors_end__
+                0x5001192c                __data_load_start__ = ALIGN (__ctors_end__, 0x4)
+
+.data           0x5001192c      0x878
+                0x5001192c                __data_start__ = .
+ *(.data .data.* .gnu.linkonce.d.*)
+ *fill*         0x5001192c        0x4 00
+ .data.impure_data
+                0x50011930      0x428 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x50011d58        0x4 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-impure.o)
+                0x50011d58                _impure_ptr
+ .data.lconv    0x50011d5c       0x38 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-locale.o)
+ .data.__malloc_av_
+                0x50011d94      0x408 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mallocr.o)
+                0x50011d94                __malloc_av_
+ .data.__malloc_trim_threshold
+                0x5001219c        0x4 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mallocr.o)
+                0x5001219c                __malloc_trim_threshold
+ .data.__malloc_sbrk_base
+                0x500121a0        0x4 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mallocr.o)
+                0x500121a0                __malloc_sbrk_base
+                0x500121a4                __data_end__ = (__data_start__ + SIZEOF (.data))
+                0x500121a4                __data_load_end__ = __data_end__
+                0x500121a4                __rodata_load_start__ = ALIGN (__data_end__, 0x4)
+
+.igot.plt       0x50000000        0x0
+ .igot.plt      0x00000000        0x0 obj\Debug\Printf\Printf.o
+
+.rodata         0x500121a4      0x984
+                0x500121a4                __rodata_start__ = .
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata        0x500121a4      0x604 obj\Debug\S3C6410\source\main_atc.o
+ .rodata        0x500127a8       0xd8 obj\Debug\S3C6410\source\malloc.o
+ .rodata        0x50012880        0x8 obj\Debug\S3C6410\source\uart.o
+ .rodata        0x50012888      0x120 obj\Debug\uCOS_II\SOURCE\os_core.o
+                0x50012888                OSUnMapTbl
+ .rodata.str1.4
+                0x500129a8       0x42 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-svfprintf.o)
+                                 0x44 (size before relaxing)
+ *fill*         0x500129ea        0x2 00
+ .rodata.zeroes.6721
+                0x500129ec       0x10 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-svfprintf.o)
+ .rodata.blanks.6720
+                0x500129fc       0x10 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-svfprintf.o)
+ .rodata.str1.4
+                0x50012a0c       0x10 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-dtoa.o)
+                                 0x14 (size before relaxing)
+ .rodata.str1.4
+                0x50012a1c        0x2 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-impure.o)
+                                  0x4 (size before relaxing)
+ *fill*         0x50012a1e        0x2 00
+ .rodata.str1.4
+                0x50012a20        0xc c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-locale.o)
+                                 0x14 (size before relaxing)
+ .rodata.p05.5242
+                0x50012a2c        0xc c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mprec.o)
+ .rodata.__mprec_tens
+                0x50012a38       0xc8 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mprec.o)
+                0x50012a38                __mprec_tens
+ .rodata.__mprec_bigtens
+                0x50012b00       0x28 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mprec.o)
+                0x50012b00                __mprec_bigtens
+                0x50012b28                __rodata_end__ = (__rodata_start__ + SIZEOF (.rodata))
+                0x50012b28                __rodata_load_end__ = __rodata_end__
+                0x50012b28                __ARM.exidx_load_start__ = ALIGN (__rodata_end__, 0x4)
+
+.ARM.exidx      0x50012b28        0x8
+                0x50012b28                __ARM.exidx_start__ = .
+                0x50012b28                __exidx_start = __ARM.exidx_start__
+ *(.ARM.exidx .ARM.exidx.*)
+ .ARM.exidx     0x50012b28        0x8 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_divdi3.o)
+ .ARM.exidx     0x50012b30        0x0 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_udivdi3.o)
+                                  0x8 (size before relaxing)
+                0x50012b30                __ARM.exidx_end__ = (__ARM.exidx_start__ + SIZEOF (.ARM.exidx))
+                0x50012b30                __exidx_end = __ARM.exidx_end__
+                0x50012b30                __ARM.exidx_load_end__ = __ARM.exidx_end__
+                0x50012b30                __bss_load_start__ = ALIGN (__ARM.exidx_end__, 0x4)
+
+.rel.dyn        0x50012b30        0x0
+ .rel.iplt      0x00000000        0x0 obj\Debug\Printf\Printf.o
+
+.bss            0x50012b30    0xb93c8
+                0x50012b30                __bss_start__ = .
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x50012b30    0x81008 obj\Debug\Printf\Printf.o
+ .bss           0x50093b38        0x6 obj\Debug\S3C6410\source\main_atc.o
+                0x50093b38                enter
+                0x50093b39                arrive
+                0x50093b3a                term_arrive
+                0x50093b3b                term
+                0x50093b3c                terminalLED
+                0x50093b3d                indicatorLED
+ *fill*         0x50093b3e        0x2 00
+ .bss           0x50093b40    0x18018 obj\Debug\S3C6410\source\malloc.o
+                0x50093b40                nByteUsedMem
+                0x50093b44                nByteUsedMemBak
+                0x500abb54                current_heap_end
+ .bss           0x500abb58        0x4 obj\Debug\S3C6410\source\timer.o
+ .bss           0x500abb5c        0x4 obj\Debug\S3C6410\source\uart.o
+ .bss.__malloc_max_total_mem
+                0x500abb60        0x4 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mallocr.o)
+                0x500abb60                __malloc_max_total_mem
+ .bss.__malloc_max_sbrked_mem
+                0x500abb64        0x4 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mallocr.o)
+                0x500abb64                __malloc_max_sbrked_mem
+ .bss.__malloc_top_pad
+                0x500abb68        0x4 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mallocr.o)
+                0x500abb68                __malloc_top_pad
+ .bss.__malloc_current_mallinfo
+                0x500abb6c       0x28 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mallocr.o)
+                0x500abb6c                __malloc_current_mallinfo
+ *(COMMON)
+ COMMON         0x500abb94     0x1000 obj\Debug\Printf\Printf.o
+                0x500abb94                TaskUartStk
+ COMMON         0x500acb94     0x2000 obj\Debug\S3C6410\source\main.o
+                0x500acb94                MainTaskStk
+ COMMON         0x500aeb94    0x1221c obj\Debug\S3C6410\source\main_atc.o
+                0x500aeb94                TB
+                0x500aeb98                serviceAQ
+                0x500aeb9c                service_sem
+                0x500aeba0                wait_aisle_sem
+                0x500aeba4                serviceCQ
+                0x500aeba8                TD
+                0x500aebac                max_capacity_sem
+                0x500aebb0                lane
+                0x500aec04                B_sem
+                0x500aec08                done_sem
+                0x500aec0c                DepartStk
+                0x500b0c0c                TerminalStk
+                0x500b2c0c                cap_sem
+                0x500b2c10                fire_sem
+                0x500b2c14                WaitStk
+                0x500b4c14                mutex2_sem
+                0x500b4c18                ServiceStk
+                0x500b6c18                land
+                0x500b6c1c                TA
+                0x500b6c20                termC_sem
+                0x500b6c24                ServiceAStk
+                0x500b8c24                D_sem
+                0x500b8c28                termD_sem
+                0x500b8c2c                aisle
+                0x500b8c30                waitaisle_msg
+                0x500b8c58                serviceQ
+                0x500b8c5c                terminalCount
+                0x500b8cb0                planeCount
+                0x500b8d04                airport_status
+                0x500b8d08                ServiceBStk
+                0x500bad08                termB_sem
+                0x500bad0c                ServiceCStk
+                0x500bcd0c                mutex1_sem
+                0x500bcd10                departB_sem
+                0x500bcd14                serviceDQ
+                0x500bcd18                serviceBQ
+                0x500bcd1c                departA_sem
+                0x500bcd20                wait_sem
+                0x500bcd24                C_sem
+                0x500bcd28                termA_sem
+                0x500bcd2c                departure
+                0x500bcd30                main_msg
+                0x500bcd80                A_sem
+                0x500bcd84                service_msg
+                0x500bcd94                TC
+                0x500bcd98                waitaisleQ
+                0x500bcd9c                ServiceDStk
+                0x500bed9c                counts
+                0x500bedb0                ATCStk
+ COMMON         0x500c0db0     0xb144 obj\Debug\uCOS_II\SOURCE\os_core.o
+                0x500c0db0                OSLockNesting
+                0x500c0db1                OSRunning
+                0x500c0db4                OSIdleCtr
+                0x500c0db8                OSPrioHighRdy
+                0x500c0dbc                OSFlagTbl
+                0x500c29bc                OSPrioCur
+                0x500c29c0                OSTCBList
+                0x500c29c4                OSMemTbl
+                0x500c4dc4                OSTaskStatStk
+                0x500c4fc4                OSCtxSwCtr
+                0x500c4fc8                OSIdleCtrMax
+                0x500c4fcc                OSTCBFreeList
+                0x500c4fd0                OSCPUUsage
+                0x500c4fd1                OSTaskCtr
+                0x500c4fd4                OSMemFreeList
+                0x500c4fd8                OSQTbl
+                0x500c67d8                OSTCBHighRdy
+                0x500c67dc                OSQFreeList
+                0x500c67e0                OSRdyGrp
+                0x500c67e4                OSRdyTbl
+                0x500c6804                OSEventFreeList
+                0x500c6808                OSIntNesting
+                0x500c680c                OSTCBCur
+                0x500c6810                OSTime
+                0x500c6814                OSTaskIdleStk
+                0x500c6a14                OSEventTbl
+                0x500ca614                OSTCBTbl
+                0x500cbaec                OSFlagFreeList
+                0x500cbaf0                OSStatRdy
+                0x500cbaf4                OSTCBPrioTbl
+                0x500cbef0                OSIdleCtrRun
+ COMMON         0x500cbef4        0x4 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-reent.o)
+                0x500cbef4                errno
+                0x500cbef8                __bss_end__ = (__bss_start__ + SIZEOF (.bss))
+                0x500cbef8                __bss_load_end__ = __bss_end__
+                0x500cbef8                __non_init_load_start__ = ALIGN (__bss_end__, 0x4)
+
+.non_init       0x500cbef8        0x0
+                0x500cbef8                __non_init_start__ = .
+ *(.non_init .non_init.*)
+                0x500cbef8                __non_init_end__ = (__non_init_start__ + SIZEOF (.non_init))
+                0x500cbef8                __non_init_load_end__ = __non_init_end__
+                0x500cbef8                __tbss_load_start__ = ALIGN (__non_init_end__, 0x4)
+
+.tbss           0x500cbef8        0x0
+                0x500cbef8                __tbss_start__ = .
+ *(.tbss .tbss.*)
+                0x500cbef8                __tbss_end__ = (__tbss_start__ + SIZEOF (.tbss))
+                0x500cbef8                __tbss_load_end__ = __tbss_end__
+                0x500cbef8                __SRAM_segment_used_end__ = (ALIGN (__non_init_end__, 0x4) + SIZEOF (.tbss))
+                0x53000000                heap_start = 0x53000000
+                0x57000000                heap_end = (heap_start + __HEAPSIZE__)
+OUTPUT(bin\Debug\uCOS-II_Semaphore.elf elf32-littlearm)
+
+.debug_info     0x00000000     0x685d
+ .debug_info    0x00000000      0x35c obj\Debug\Printf\Printf.o
+ .debug_info    0x0000035c       0x8a obj\Debug\S3C6410\source\6410init.o
+ .debug_info    0x000003e6       0x8a obj\Debug\S3C6410\source\6410slib.o
+ .debug_info    0x00000470      0x15c obj\Debug\S3C6410\source\gpio.o
+ .debug_info    0x000005cc       0xef obj\Debug\S3C6410\source\main.o
+ .debug_info    0x000006bb      0xeb1 obj\Debug\S3C6410\source\main_atc.o
+ .debug_info    0x0000156c      0x531 obj\Debug\S3C6410\source\malloc.o
+ .debug_info    0x00001a9d      0x16e obj\Debug\S3C6410\source\mmu.o
+ .debug_info    0x00001c0b      0x11b obj\Debug\S3C6410\source\speed.o
+ .debug_info    0x00001d26      0x385 obj\Debug\S3C6410\source\timer.o
+ .debug_info    0x000020ab      0x471 obj\Debug\S3C6410\source\uart.o
+ .debug_info    0x0000251c       0x87 obj\Debug\uCOS_II\arm\os_cpu_a.o
+ .debug_info    0x000025a3      0x56a obj\Debug\uCOS_II\arm\Os_cpu_c.o
+ .debug_info    0x00002b0d      0xff0 obj\Debug\uCOS_II\SOURCE\os_core.o
+ .debug_info    0x00003afd      0xa2c obj\Debug\uCOS_II\SOURCE\os_flag.o
+ .debug_info    0x00004529      0x455 obj\Debug\uCOS_II\SOURCE\os_mem.o
+ .debug_info    0x0000497e      0x8f0 obj\Debug\uCOS_II\SOURCE\os_q.o
+ .debug_info    0x0000526e      0x682 obj\Debug\uCOS_II\SOURCE\os_sem.o
+ .debug_info    0x000058f0      0xa1b obj\Debug\uCOS_II\SOURCE\os_task.o
+ .debug_info    0x0000630b      0x552 obj\Debug\uCOS_II\SOURCE\os_time.o
+
+.debug_abbrev   0x00000000     0x1622
+ .debug_abbrev  0x00000000      0x11c obj\Debug\Printf\Printf.o
+ .debug_abbrev  0x0000011c       0x14 obj\Debug\S3C6410\source\6410init.o
+ .debug_abbrev  0x00000130       0x14 obj\Debug\S3C6410\source\6410slib.o
+ .debug_abbrev  0x00000144       0x85 obj\Debug\S3C6410\source\gpio.o
+ .debug_abbrev  0x000001c9       0x8c obj\Debug\S3C6410\source\main.o
+ .debug_abbrev  0x00000255      0x1d4 obj\Debug\S3C6410\source\main_atc.o
+ .debug_abbrev  0x00000429      0x1fc obj\Debug\S3C6410\source\malloc.o
+ .debug_abbrev  0x00000625       0xc5 obj\Debug\S3C6410\source\mmu.o
+ .debug_abbrev  0x000006ea       0xb9 obj\Debug\S3C6410\source\speed.o
+ .debug_abbrev  0x000007a3      0x129 obj\Debug\S3C6410\source\timer.o
+ .debug_abbrev  0x000008cc      0x14f obj\Debug\S3C6410\source\uart.o
+ .debug_abbrev  0x00000a1b       0x14 obj\Debug\uCOS_II\arm\os_cpu_a.o
+ .debug_abbrev  0x00000a2f      0x14e obj\Debug\uCOS_II\arm\Os_cpu_c.o
+ .debug_abbrev  0x00000b7d      0x274 obj\Debug\uCOS_II\SOURCE\os_core.o
+ .debug_abbrev  0x00000df1      0x19a obj\Debug\uCOS_II\SOURCE\os_flag.o
+ .debug_abbrev  0x00000f8b      0x168 obj\Debug\uCOS_II\SOURCE\os_mem.o
+ .debug_abbrev  0x000010f3      0x15d obj\Debug\uCOS_II\SOURCE\os_q.o
+ .debug_abbrev  0x00001250      0x15d obj\Debug\uCOS_II\SOURCE\os_sem.o
+ .debug_abbrev  0x000013ad      0x178 obj\Debug\uCOS_II\SOURCE\os_task.o
+ .debug_abbrev  0x00001525       0xfd obj\Debug\uCOS_II\SOURCE\os_time.o
+
+.debug_loc      0x00000000     0x19b4
+ .debug_loc     0x00000000       0x90 obj\Debug\Printf\Printf.o
+ .debug_loc     0x00000090      0x134 obj\Debug\S3C6410\source\gpio.o
+ .debug_loc     0x000001c4       0x2c obj\Debug\S3C6410\source\main.o
+ .debug_loc     0x000001f0      0x210 obj\Debug\S3C6410\source\main_atc.o
+ .debug_loc     0x00000400      0x1b8 obj\Debug\S3C6410\source\malloc.o
+ .debug_loc     0x000005b8       0x84 obj\Debug\S3C6410\source\mmu.o
+ .debug_loc     0x0000063c       0x84 obj\Debug\S3C6410\source\speed.o
+ .debug_loc     0x000006c0      0x108 obj\Debug\S3C6410\source\timer.o
+ .debug_loc     0x000007c8      0x114 obj\Debug\S3C6410\source\uart.o
+ .debug_loc     0x000008dc      0x210 obj\Debug\uCOS_II\arm\Os_cpu_c.o
+ .debug_loc     0x00000aec      0x580 obj\Debug\uCOS_II\SOURCE\os_core.o
+ .debug_loc     0x0000106c      0x23c obj\Debug\uCOS_II\SOURCE\os_flag.o
+ .debug_loc     0x000012a8      0x134 obj\Debug\uCOS_II\SOURCE\os_mem.o
+ .debug_loc     0x000013dc      0x1b8 obj\Debug\uCOS_II\SOURCE\os_q.o
+ .debug_loc     0x00001594      0x134 obj\Debug\uCOS_II\SOURCE\os_sem.o
+ .debug_loc     0x000016c8      0x210 obj\Debug\uCOS_II\SOURCE\os_task.o
+ .debug_loc     0x000018d8       0xdc obj\Debug\uCOS_II\SOURCE\os_time.o
+
+.debug_aranges  0x00000000      0x280
+ .debug_aranges
+                0x00000000       0x20 obj\Debug\Printf\Printf.o
+ .debug_aranges
+                0x00000020       0x20 obj\Debug\S3C6410\source\6410init.o
+ .debug_aranges
+                0x00000040       0x20 obj\Debug\S3C6410\source\6410slib.o
+ .debug_aranges
+                0x00000060       0x20 obj\Debug\S3C6410\source\gpio.o
+ .debug_aranges
+                0x00000080       0x20 obj\Debug\S3C6410\source\main.o
+ .debug_aranges
+                0x000000a0       0x20 obj\Debug\S3C6410\source\main_atc.o
+ .debug_aranges
+                0x000000c0       0x20 obj\Debug\S3C6410\source\malloc.o
+ .debug_aranges
+                0x000000e0       0x20 obj\Debug\S3C6410\source\mmu.o
+ .debug_aranges
+                0x00000100       0x20 obj\Debug\S3C6410\source\speed.o
+ .debug_aranges
+                0x00000120       0x20 obj\Debug\S3C6410\source\timer.o
+ .debug_aranges
+                0x00000140       0x20 obj\Debug\S3C6410\source\uart.o
+ .debug_aranges
+                0x00000160       0x20 obj\Debug\uCOS_II\arm\os_cpu_a.o
+ .debug_aranges
+                0x00000180       0x20 obj\Debug\uCOS_II\arm\Os_cpu_c.o
+ .debug_aranges
+                0x000001a0       0x20 obj\Debug\uCOS_II\SOURCE\os_core.o
+ .debug_aranges
+                0x000001c0       0x20 obj\Debug\uCOS_II\SOURCE\os_flag.o
+ .debug_aranges
+                0x000001e0       0x20 obj\Debug\uCOS_II\SOURCE\os_mem.o
+ .debug_aranges
+                0x00000200       0x20 obj\Debug\uCOS_II\SOURCE\os_q.o
+ .debug_aranges
+                0x00000220       0x20 obj\Debug\uCOS_II\SOURCE\os_sem.o
+ .debug_aranges
+                0x00000240       0x20 obj\Debug\uCOS_II\SOURCE\os_task.o
+ .debug_aranges
+                0x00000260       0x20 obj\Debug\uCOS_II\SOURCE\os_time.o
+
+.debug_line     0x00000000     0x20b2
+ .debug_line    0x00000000      0x19d obj\Debug\Printf\Printf.o
+ .debug_line    0x0000019d       0xbb obj\Debug\S3C6410\source\6410init.o
+ .debug_line    0x00000258       0xe3 obj\Debug\S3C6410\source\6410slib.o
+ .debug_line    0x0000033b       0x9b obj\Debug\S3C6410\source\gpio.o
+ .debug_line    0x000003d6       0xe0 obj\Debug\S3C6410\source\main.o
+ .debug_line    0x000004b6      0x355 obj\Debug\S3C6410\source\main_atc.o
+ .debug_line    0x0000080b      0x21d obj\Debug\S3C6410\source\malloc.o
+ .debug_line    0x00000a28      0x128 obj\Debug\S3C6410\source\mmu.o
+ .debug_line    0x00000b50       0xce obj\Debug\S3C6410\source\speed.o
+ .debug_line    0x00000c1e      0x118 obj\Debug\S3C6410\source\timer.o
+ .debug_line    0x00000d36      0x217 obj\Debug\S3C6410\source\uart.o
+ .debug_line    0x00000f4d       0xf1 obj\Debug\uCOS_II\arm\os_cpu_a.o
+ .debug_line    0x0000103e      0x150 obj\Debug\uCOS_II\arm\Os_cpu_c.o
+ .debug_line    0x0000118e      0x370 obj\Debug\uCOS_II\SOURCE\os_core.o
+ .debug_line    0x000014fe      0x2d6 obj\Debug\uCOS_II\SOURCE\os_flag.o
+ .debug_line    0x000017d4      0x196 obj\Debug\uCOS_II\SOURCE\os_mem.o
+ .debug_line    0x0000196a      0x229 obj\Debug\uCOS_II\SOURCE\os_q.o
+ .debug_line    0x00001b93      0x19d obj\Debug\uCOS_II\SOURCE\os_sem.o
+ .debug_line    0x00001d30      0x265 obj\Debug\uCOS_II\SOURCE\os_task.o
+ .debug_line    0x00001f95      0x11d obj\Debug\uCOS_II\SOURCE\os_time.o
+
+.debug_str      0x00000000     0x197f
+ .debug_str     0x00000000      0x253 obj\Debug\Printf\Printf.o
+                                0x29c (size before relaxing)
+ .debug_str     0x00000253       0x93 obj\Debug\S3C6410\source\gpio.o
+                                0x122 (size before relaxing)
+ .debug_str     0x000002e6       0x5c obj\Debug\S3C6410\source\main.o
+                                0x124 (size before relaxing)
+ .debug_str     0x00000342      0x5b6 obj\Debug\S3C6410\source\main_atc.o
+                                0x742 (size before relaxing)
+ .debug_str     0x000008f8      0x16f obj\Debug\S3C6410\source\malloc.o
+                                0x2dc (size before relaxing)
+ .debug_str     0x00000a67       0x93 obj\Debug\S3C6410\source\mmu.o
+                                0x121 (size before relaxing)
+ .debug_str     0x00000afa       0x7f obj\Debug\S3C6410\source\speed.o
+                                0x111 (size before relaxing)
+ .debug_str     0x00000b79      0x1c4 obj\Debug\S3C6410\source\timer.o
+                                0x296 (size before relaxing)
+ .debug_str     0x00000d3d      0x177 obj\Debug\S3C6410\source\uart.o
+                                0x322 (size before relaxing)
+ .debug_str     0x00000eb4       0xf6 obj\Debug\uCOS_II\arm\Os_cpu_c.o
+                                0x3f6 (size before relaxing)
+ .debug_str     0x00000faa      0x440 obj\Debug\uCOS_II\SOURCE\os_core.o
+                                0x7ae (size before relaxing)
+ .debug_str     0x000013ea      0x173 obj\Debug\uCOS_II\SOURCE\os_flag.o
+                                0x513 (size before relaxing)
+ .debug_str     0x0000155d       0xff obj\Debug\uCOS_II\SOURCE\os_mem.o
+                                0x22e (size before relaxing)
+ .debug_str     0x0000165c       0xd1 obj\Debug\uCOS_II\SOURCE\os_q.o
+                                0x484 (size before relaxing)
+ .debug_str     0x0000172d       0x90 obj\Debug\uCOS_II\SOURCE\os_sem.o
+                                0x410 (size before relaxing)
+ .debug_str     0x000017bd      0x121 obj\Debug\uCOS_II\SOURCE\os_task.o
+                                0x4fd (size before relaxing)
+ .debug_str     0x000018de       0xa1 obj\Debug\uCOS_II\SOURCE\os_time.o
+                                0x3d2 (size before relaxing)
+
+.comment        0x00000000       0x70
+ .comment       0x00000000       0x70 obj\Debug\Printf\Printf.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 obj\Debug\S3C6410\source\gpio.o
+ .comment       0x00000000       0x71 obj\Debug\S3C6410\source\main.o
+ .comment       0x00000000       0x71 obj\Debug\S3C6410\source\main_atc.o
+ .comment       0x00000000       0x71 obj\Debug\S3C6410\source\malloc.o
+ .comment       0x00000000       0x71 obj\Debug\S3C6410\source\mmu.o
+ .comment       0x00000000       0x71 obj\Debug\S3C6410\source\speed.o
+ .comment       0x00000000       0x71 obj\Debug\S3C6410\source\timer.o
+ .comment       0x00000000       0x71 obj\Debug\S3C6410\source\uart.o
+ .comment       0x00000000       0x71 obj\Debug\uCOS_II\arm\Os_cpu_c.o
+ .comment       0x00000000       0x71 obj\Debug\uCOS_II\SOURCE\os_core.o
+ .comment       0x00000000       0x71 obj\Debug\uCOS_II\SOURCE\os_flag.o
+ .comment       0x00000000       0x71 obj\Debug\uCOS_II\SOURCE\os_mem.o
+ .comment       0x00000000       0x71 obj\Debug\uCOS_II\SOURCE\os_q.o
+ .comment       0x00000000       0x71 obj\Debug\uCOS_II\SOURCE\os_sem.o
+ .comment       0x00000000       0x71 obj\Debug\uCOS_II\SOURCE\os_task.o
+ .comment       0x00000000       0x71 obj\Debug\uCOS_II\SOURCE\os_time.o
+
+.ARM.attributes
+                0x00000000       0x36
+ .ARM.attributes
+                0x00000000       0x38 obj\Debug\Printf\Printf.o
+ .ARM.attributes
+                0x00000038       0x26 obj\Debug\S3C6410\source\6410init.o
+ .ARM.attributes
+                0x0000005e       0x26 obj\Debug\S3C6410\source\6410slib.o
+ .ARM.attributes
+                0x00000084       0x38 obj\Debug\S3C6410\source\gpio.o
+ .ARM.attributes
+                0x000000bc       0x38 obj\Debug\S3C6410\source\main.o
+ .ARM.attributes
+                0x000000f4       0x38 obj\Debug\S3C6410\source\main_atc.o
+ .ARM.attributes
+                0x0000012c       0x38 obj\Debug\S3C6410\source\malloc.o
+ .ARM.attributes
+                0x00000164       0x38 obj\Debug\S3C6410\source\mmu.o
+ .ARM.attributes
+                0x0000019c       0x38 obj\Debug\S3C6410\source\speed.o
+ .ARM.attributes
+                0x000001d4       0x38 obj\Debug\S3C6410\source\timer.o
+ .ARM.attributes
+                0x0000020c       0x38 obj\Debug\S3C6410\source\uart.o
+ .ARM.attributes
+                0x00000244       0x26 obj\Debug\uCOS_II\arm\os_cpu_a.o
+ .ARM.attributes
+                0x0000026a       0x38 obj\Debug\uCOS_II\arm\Os_cpu_c.o
+ .ARM.attributes
+                0x000002a2       0x38 obj\Debug\uCOS_II\SOURCE\os_core.o
+ .ARM.attributes
+                0x000002da       0x38 obj\Debug\uCOS_II\SOURCE\os_flag.o
+ .ARM.attributes
+                0x00000312       0x38 obj\Debug\uCOS_II\SOURCE\os_mem.o
+ .ARM.attributes
+                0x0000034a       0x38 obj\Debug\uCOS_II\SOURCE\os_q.o
+ .ARM.attributes
+                0x00000382       0x38 obj\Debug\uCOS_II\SOURCE\os_sem.o
+ .ARM.attributes
+                0x000003ba       0x38 obj\Debug\uCOS_II\SOURCE\os_task.o
+ .ARM.attributes
+                0x000003f2       0x38 obj\Debug\uCOS_II\SOURCE\os_time.o
+ .ARM.attributes
+                0x0000042a       0x18 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x00000442       0x18 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x0000045a       0x30 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-sprintf.o)
+ .ARM.attributes
+                0x0000048a       0x30 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-svfprintf.o)
+ .ARM.attributes
+                0x000004ba       0x30 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-vsprintf.o)
+ .ARM.attributes
+                0x000004ea       0x30 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-dtoa.o)
+ .ARM.attributes
+                0x0000051a       0x30 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000054a       0x30 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-locale.o)
+ .ARM.attributes
+                0x0000057a       0x30 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mallocr.o)
+ .ARM.attributes
+                0x000005aa       0x30 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-memchr.o)
+ .ARM.attributes
+                0x000005da       0x30 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x0000060a       0x30 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x0000063a       0x30 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mprec.o)
+ .ARM.attributes
+                0x0000066a       0x30 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-s_fpclassify.o)
+ .ARM.attributes
+                0x0000069a       0x30 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x000006ca       0x30 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x000006fa       0x30 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-svfiprintf.o)
+ .ARM.attributes
+                0x0000072a       0x30 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-callocr.o)
+ .ARM.attributes
+                0x0000075a       0x30 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-freer.o)
+ .ARM.attributes
+                0x0000078a       0x30 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x000007ba       0x30 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x000007ea       0x30 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-reallocr.o)
+ .ARM.attributes
+                0x0000081a       0x30 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-reent.o)
+ .ARM.attributes
+                0x0000084a       0x18 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x00000862       0x18 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x0000087a       0x18 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x00000892       0x18 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_arm_fixdfsi.o)
+ .ARM.attributes
+                0x000008aa       0x18 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x000008c2       0x30 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(bpabi.o)
+ .ARM.attributes
+                0x000008f2       0x30 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_divdi3.o)
+ .ARM.attributes
+                0x00000922       0x30 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_udivdi3.o)
+ .ARM.attributes
+                0x00000952       0x18 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_clzsi2.o)
+
+.debug_frame    0x00000000     0x189c
+ .debug_frame   0x00000000       0x70 obj\Debug\Printf\Printf.o
+ .debug_frame   0x00000070       0xb8 obj\Debug\S3C6410\source\gpio.o
+ .debug_frame   0x00000128       0x2c obj\Debug\S3C6410\source\main.o
+ .debug_frame   0x00000154      0x160 obj\Debug\S3C6410\source\main_atc.o
+ .debug_frame   0x000002b4      0x118 obj\Debug\S3C6410\source\malloc.o
+ .debug_frame   0x000003cc       0x60 obj\Debug\S3C6410\source\mmu.o
+ .debug_frame   0x0000042c       0x64 obj\Debug\S3C6410\source\speed.o
+ .debug_frame   0x00000490       0xac obj\Debug\S3C6410\source\timer.o
+ .debug_frame   0x0000053c       0xc0 obj\Debug\S3C6410\source\uart.o
+ .debug_frame   0x000005fc      0x134 obj\Debug\uCOS_II\arm\Os_cpu_c.o
+ .debug_frame   0x00000730      0x358 obj\Debug\uCOS_II\SOURCE\os_core.o
+ .debug_frame   0x00000a88      0x174 obj\Debug\uCOS_II\SOURCE\os_flag.o
+ .debug_frame   0x00000bfc       0xd4 obj\Debug\uCOS_II\SOURCE\os_mem.o
+ .debug_frame   0x00000cd0      0x128 obj\Debug\uCOS_II\SOURCE\os_q.o
+ .debug_frame   0x00000df8       0xd4 obj\Debug\uCOS_II\SOURCE\os_sem.o
+ .debug_frame   0x00000ecc      0x15c obj\Debug\uCOS_II\SOURCE\os_task.o
+ .debug_frame   0x00001028       0x9c obj\Debug\uCOS_II\SOURCE\os_time.o
+ .debug_frame   0x000010c4       0x20 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_udivsi3.o)
+ .debug_frame   0x000010e4       0x5c c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-sprintf.o)
+ .debug_frame   0x00001140       0x3c c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-svfprintf.o)
+ .debug_frame   0x0000117c       0x44 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-vsprintf.o)
+ .debug_frame   0x000011c0       0x64 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-dtoa.o)
+ .debug_frame   0x00001224       0x98 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-locale.o)
+ .debug_frame   0x000012bc       0x38 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mallocr.o)
+ .debug_frame   0x000012f4       0x2c c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-memchr.o)
+ .debug_frame   0x00001320       0x2c c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-memcpy.o)
+ .debug_frame   0x0000134c       0x30 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mlock.o)
+ .debug_frame   0x0000137c      0x220 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mprec.o)
+ .debug_frame   0x0000159c       0x20 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-s_fpclassify.o)
+ .debug_frame   0x000015bc       0x2c c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-sbrkr.o)
+ .debug_frame   0x000015e8       0x20 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-strlen.o)
+ .debug_frame   0x00001608       0x64 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-svfiprintf.o)
+ .debug_frame   0x0000166c       0x28 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-callocr.o)
+ .debug_frame   0x00001694       0x50 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-freer.o)
+ .debug_frame   0x000016e4       0x2c c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-memmove.o)
+ .debug_frame   0x00001710       0x28 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-memset.o)
+ .debug_frame   0x00001738       0x38 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-reallocr.o)
+ .debug_frame   0x00001770       0x68 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-reent.o)
+ .debug_frame   0x000017d8       0x54 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(bpabi.o)
+ .debug_frame   0x0000182c       0x38 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_divdi3.o)
+ .debug_frame   0x00001864       0x38 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_udivdi3.o)
+
+Cross Reference Table
+
+Symbol                                            File
+ATC                                               obj\Debug\S3C6410\source\main_atc.o
+ATCStk                                            obj\Debug\S3C6410\source\main_atc.o
+A_sem                                             obj\Debug\S3C6410\source\main_atc.o
+B_sem                                             obj\Debug\S3C6410\source\main_atc.o
+CLR_IF                                            obj\Debug\S3C6410\source\6410slib.o
+C_sem                                             obj\Debug\S3C6410\source\main_atc.o
+ChangeRomCacheStatus                              obj\Debug\S3C6410\source\mmu.o
+D_sem                                             obj\Debug\S3C6410\source\main_atc.o
+Depart                                            obj\Debug\S3C6410\source\main_atc.o
+DepartStk                                         obj\Debug\S3C6410\source\main_atc.o
+Get_Key_Input                                     obj\Debug\S3C6410\source\gpio.o
+                                                  obj\Debug\S3C6410\source\main_atc.o
+HandleEINT0                                       obj\Debug\S3C6410\source\6410init.o
+                                                  obj\Debug\uCOS_II\arm\os_cpu_a.o
+HandleIRQ                                         obj\Debug\S3C6410\source\6410init.o
+ISRInit                                           obj\Debug\S3C6410\source\timer.o
+                                                  obj\Debug\S3C6410\source\main_atc.o
+LED_status                                        obj\Debug\S3C6410\source\main_atc.o
+LedE_Display                                      obj\Debug\S3C6410\source\gpio.o
+                                                  obj\Debug\S3C6410\source\main_atc.o
+LedM_Display                                      obj\Debug\S3C6410\source\gpio.o
+                                                  obj\Debug\S3C6410\source\main_atc.o
+LedQ_Display                                      obj\Debug\S3C6410\source\gpio.o
+                                                  obj\Debug\S3C6410\source\main_atc.o
+Led_Display                                       obj\Debug\S3C6410\source\gpio.o
+MMU_CleanDCacheIndex                              obj\Debug\S3C6410\source\6410slib.o
+MMU_CleanDCacheMVA                                obj\Debug\S3C6410\source\6410slib.o
+MMU_CleanInvalidateDCacheIndex                    obj\Debug\S3C6410\source\6410slib.o
+                                                  obj\Debug\S3C6410\source\mmu.o
+MMU_CleanInvalidateDCacheMVA                      obj\Debug\S3C6410\source\6410slib.o
+MMU_DisableAlignFault                             obj\Debug\S3C6410\source\6410slib.o
+MMU_DisableDCache                                 obj\Debug\S3C6410\source\6410slib.o
+                                                  obj\Debug\S3C6410\source\mmu.o
+MMU_DisableICache                                 obj\Debug\S3C6410\source\6410slib.o
+                                                  obj\Debug\S3C6410\source\mmu.o
+MMU_DisableMMU                                    obj\Debug\S3C6410\source\6410slib.o
+                                                  obj\Debug\S3C6410\source\mmu.o
+MMU_EnableAlignFault                              obj\Debug\S3C6410\source\6410slib.o
+                                                  obj\Debug\S3C6410\source\mmu.o
+MMU_EnableDCache                                  obj\Debug\S3C6410\source\6410slib.o
+                                                  obj\Debug\S3C6410\source\mmu.o
+MMU_EnableICache                                  obj\Debug\S3C6410\source\6410slib.o
+                                                  obj\Debug\S3C6410\source\mmu.o
+MMU_EnableMMU                                     obj\Debug\S3C6410\source\6410slib.o
+                                                  obj\Debug\S3C6410\source\mmu.o
+MMU_Init                                          obj\Debug\S3C6410\source\mmu.o
+                                                  obj\Debug\S3C6410\source\main.o
+MMU_InvalidateDCache                              obj\Debug\S3C6410\source\6410slib.o
+MMU_InvalidateDCacheMVA                           obj\Debug\S3C6410\source\6410slib.o
+MMU_InvalidateDTLB                                obj\Debug\S3C6410\source\6410slib.o
+MMU_InvalidateDTLBMVA                             obj\Debug\S3C6410\source\6410slib.o
+MMU_InvalidateICache                              obj\Debug\S3C6410\source\6410slib.o
+                                                  obj\Debug\S3C6410\source\mmu.o
+MMU_InvalidateICacheMVA                           obj\Debug\S3C6410\source\6410slib.o
+MMU_InvalidateIDCache                             obj\Debug\S3C6410\source\6410slib.o
+MMU_InvalidateITLB                                obj\Debug\S3C6410\source\6410slib.o
+MMU_InvalidateITLBMVA                             obj\Debug\S3C6410\source\6410slib.o
+MMU_InvalidateTLB                                 obj\Debug\S3C6410\source\6410slib.o
+                                                  obj\Debug\S3C6410\source\mmu.o
+MMU_PrefetchICacheMVA                             obj\Debug\S3C6410\source\6410slib.o
+MMU_SetAsyncBusMode                               obj\Debug\S3C6410\source\6410slib.o
+MMU_SetDCacheLockdownBase                         obj\Debug\S3C6410\source\6410slib.o
+MMU_SetDTLBLockdown                               obj\Debug\S3C6410\source\6410slib.o
+MMU_SetDomain                                     obj\Debug\S3C6410\source\6410slib.o
+                                                  obj\Debug\S3C6410\source\mmu.o
+MMU_SetFastBusMode                                obj\Debug\S3C6410\source\6410slib.o
+MMU_SetICacheLockdownBase                         obj\Debug\S3C6410\source\6410slib.o
+MMU_SetITLBLockdown                               obj\Debug\S3C6410\source\6410slib.o
+MMU_SetMTT                                        obj\Debug\S3C6410\source\mmu.o
+MMU_SetProcessId                                  obj\Debug\S3C6410\source\6410slib.o
+                                                  obj\Debug\S3C6410\source\mmu.o
+MMU_SetTTBase                                     obj\Debug\S3C6410\source\6410slib.o
+                                                  obj\Debug\S3C6410\source\mmu.o
+MMU_WaitForInterrupt                              obj\Debug\S3C6410\source\6410slib.o
+MainTask                                          obj\Debug\S3C6410\source\main_atc.o
+                                                  obj\Debug\S3C6410\source\main.o
+MainTaskStk                                       obj\Debug\S3C6410\source\main.o
+OSAPIBlockEnter                                   obj\Debug\uCOS_II\SOURCE\API\os_api.o
+OSAPIBlockNew                                     obj\Debug\uCOS_II\SOURCE\API\os_api.o
+OSAPISemFree                                      obj\Debug\uCOS_II\SOURCE\API\os_api.o
+OSAPISemFreeExt                                   obj\Debug\uCOS_II\SOURCE\API\os_api.o
+OSAPISemWait                                      obj\Debug\uCOS_II\SOURCE\API\os_api.o
+OSCPUEnableIrq                                    obj\Debug\uCOS_II\arm\os_cpu_a.o
+OSCPUGetSR                                        obj\Debug\uCOS_II\arm\os_cpu_a.o
+OSCPURestoreSR                                    obj\Debug\uCOS_II\arm\os_cpu_a.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_time.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_task.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_sem.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_q.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_mutex.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_mem.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_mbox.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_flag.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_core.o
+                                                  obj\Debug\S3C6410\source\main_atc.o
+OSCPUSaveSR                                       obj\Debug\uCOS_II\arm\os_cpu_a.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_time.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_task.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_sem.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_q.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_mutex.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_mem.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_mbox.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_flag.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_core.o
+                                                  obj\Debug\S3C6410\source\main_atc.o
+OSCPUUsage                                        obj\Debug\uCOS_II\SOURCE\os_core.o
+OSCtxSw                                           obj\Debug\uCOS_II\arm\os_cpu_a.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_core.o
+OSCtxSwCtr                                        obj\Debug\uCOS_II\SOURCE\os_core.o
+OSDebugEn                                         obj\Debug\uCOS_II\SOURCE\os_dbg_r.o
+OSEventFreeList                                   obj\Debug\uCOS_II\SOURCE\os_sem.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_q.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_mutex.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_mbox.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_core.o
+OSEventNameGet                                    obj\Debug\uCOS_II\SOURCE\os_core.o
+OSEventNameSet                                    obj\Debug\uCOS_II\SOURCE\os_core.o
+OSEventTbl                                        obj\Debug\uCOS_II\SOURCE\os_core.o
+OSFlagAccept                                      obj\Debug\uCOS_II\SOURCE\os_flag.o
+OSFlagCreate                                      obj\Debug\uCOS_II\SOURCE\os_flag.o
+OSFlagDel                                         obj\Debug\uCOS_II\SOURCE\os_flag.o
+OSFlagFreeList                                    obj\Debug\uCOS_II\SOURCE\os_flag.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_core.o
+OSFlagNameGet                                     obj\Debug\uCOS_II\SOURCE\os_flag.o
+OSFlagNameSet                                     obj\Debug\uCOS_II\SOURCE\os_flag.o
+OSFlagPend                                        obj\Debug\uCOS_II\SOURCE\os_flag.o
+OSFlagPendGetFlagsRdy                             obj\Debug\uCOS_II\SOURCE\os_flag.o
+OSFlagPost                                        obj\Debug\uCOS_II\SOURCE\os_flag.o
+OSFlagQuery                                       obj\Debug\uCOS_II\SOURCE\os_flag.o
+OSFlagTbl                                         obj\Debug\uCOS_II\SOURCE\os_flag.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_core.o
+OSIdleCtr                                         obj\Debug\uCOS_II\SOURCE\os_core.o
+OSIdleCtrMax                                      obj\Debug\uCOS_II\SOURCE\os_core.o
+OSIdleCtrRun                                      obj\Debug\uCOS_II\SOURCE\os_core.o
+OSInit                                            obj\Debug\uCOS_II\SOURCE\os_core.o
+                                                  obj\Debug\S3C6410\source\main.o
+OSInitHookBegin                                   obj\Debug\uCOS_II\arm\Os_cpu_c.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_core.o
+OSInitHookEnd                                     obj\Debug\uCOS_II\arm\Os_cpu_c.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_core.o
+OSIntCtxSw                                        obj\Debug\uCOS_II\arm\os_cpu_a.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_core.o
+OSIntEnter                                        obj\Debug\uCOS_II\SOURCE\os_core.o
+OSIntExit                                         obj\Debug\uCOS_II\SOURCE\os_core.o
+                                                  obj\Debug\uCOS_II\arm\os_cpu_a.o
+OSIntNesting                                      obj\Debug\uCOS_II\SOURCE\os_task.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_sem.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_q.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_mutex.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_mbox.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_flag.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_core.o
+                                                  obj\Debug\uCOS_II\arm\os_cpu_a.o
+OSLockNesting                                     obj\Debug\uCOS_II\SOURCE\os_task.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_sem.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_q.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_mutex.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_mbox.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_flag.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_core.o
+OSMboxAccept                                      obj\Debug\uCOS_II\SOURCE\os_mbox.o
+OSMboxCreate                                      obj\Debug\uCOS_II\SOURCE\os_mbox.o
+OSMboxDel                                         obj\Debug\uCOS_II\SOURCE\os_mbox.o
+OSMboxPend                                        obj\Debug\uCOS_II\SOURCE\os_mbox.o
+OSMboxPost                                        obj\Debug\uCOS_II\SOURCE\os_mbox.o
+OSMboxPostOpt                                     obj\Debug\uCOS_II\SOURCE\os_mbox.o
+OSMboxQuery                                       obj\Debug\uCOS_II\SOURCE\os_mbox.o
+OSMemCreate                                       obj\Debug\uCOS_II\SOURCE\os_mem.o
+                                                  obj\Debug\Printf\Printf.o
+OSMemFreeList                                     obj\Debug\uCOS_II\SOURCE\os_mem.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_core.o
+OSMemGet                                          obj\Debug\uCOS_II\SOURCE\os_mem.o
+                                                  obj\Debug\Printf\Printf.o
+OSMemNameGet                                      obj\Debug\uCOS_II\SOURCE\os_mem.o
+OSMemNameSet                                      obj\Debug\uCOS_II\SOURCE\os_mem.o
+OSMemPut                                          obj\Debug\uCOS_II\SOURCE\os_mem.o
+                                                  obj\Debug\Printf\Printf.o
+OSMemQuery                                        obj\Debug\uCOS_II\SOURCE\os_mem.o
+OSMemTbl                                          obj\Debug\uCOS_II\SOURCE\os_mem.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_core.o
+OSMutexAccept                                     obj\Debug\uCOS_II\SOURCE\os_mutex.o
+OSMutexCreate                                     obj\Debug\uCOS_II\SOURCE\os_mutex.o
+                                                  obj\Debug\uCOS_II\SOURCE\API\os_api.o
+OSMutexDel                                        obj\Debug\uCOS_II\SOURCE\os_mutex.o
+OSMutexPend                                       obj\Debug\uCOS_II\SOURCE\os_mutex.o
+                                                  obj\Debug\uCOS_II\SOURCE\API\os_api.o
+OSMutexPost                                       obj\Debug\uCOS_II\SOURCE\os_mutex.o
+OSMutexQuery                                      obj\Debug\uCOS_II\SOURCE\os_mutex.o
+OSPrintf                                          obj\Debug\Printf\Printf.o
+                                                  obj\Debug\S3C6410\source\main_atc.o
+OSPrintfInit                                      obj\Debug\Printf\Printf.o
+                                                  obj\Debug\S3C6410\source\main_atc.o
+OSPrioCur                                         obj\Debug\uCOS_II\SOURCE\os_core.o
+                                                  obj\Debug\uCOS_II\arm\os_cpu_a.o
+OSPrioHighRdy                                     obj\Debug\uCOS_II\SOURCE\os_core.o
+                                                  obj\Debug\uCOS_II\arm\os_cpu_a.o
+OSQAccept                                         obj\Debug\uCOS_II\SOURCE\os_q.o
+                                                  obj\Debug\Printf\Printf.o
+OSQCreate                                         obj\Debug\uCOS_II\SOURCE\os_q.o
+                                                  obj\Debug\S3C6410\source\main_atc.o
+                                                  obj\Debug\Printf\Printf.o
+OSQDel                                            obj\Debug\uCOS_II\SOURCE\os_q.o
+OSQFlush                                          obj\Debug\uCOS_II\SOURCE\os_q.o
+OSQFreeList                                       obj\Debug\uCOS_II\SOURCE\os_q.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_core.o
+OSQPend                                           obj\Debug\uCOS_II\SOURCE\os_q.o
+                                                  obj\Debug\S3C6410\source\main_atc.o
+OSQPost                                           obj\Debug\uCOS_II\SOURCE\os_q.o
+                                                  obj\Debug\S3C6410\source\main_atc.o
+                                                  obj\Debug\Printf\Printf.o
+OSQPostFront                                      obj\Debug\uCOS_II\SOURCE\os_q.o
+OSQPostOpt                                        obj\Debug\uCOS_II\SOURCE\os_q.o
+OSQQuery                                          obj\Debug\uCOS_II\SOURCE\os_q.o
+OSQTbl                                            obj\Debug\uCOS_II\SOURCE\os_q.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_core.o
+OSRdyGrp                                          obj\Debug\uCOS_II\SOURCE\os_time.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_task.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_mutex.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_flag.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_core.o
+OSRdyTbl                                          obj\Debug\uCOS_II\SOURCE\os_time.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_task.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_mutex.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_flag.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_core.o
+OSRunning                                         obj\Debug\uCOS_II\SOURCE\os_task.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_core.o
+                                                  obj\Debug\uCOS_II\arm\os_cpu_a.o
+OSSchedLock                                       obj\Debug\uCOS_II\SOURCE\os_core.o
+OSSchedUnlock                                     obj\Debug\uCOS_II\SOURCE\os_core.o
+OSSemAccept                                       obj\Debug\uCOS_II\SOURCE\os_sem.o
+                                                  obj\Debug\S3C6410\source\main_atc.o
+OSSemCreate                                       obj\Debug\uCOS_II\SOURCE\os_sem.o
+                                                  obj\Debug\S3C6410\source\malloc.o
+                                                  obj\Debug\S3C6410\source\main_atc.o
+OSSemDel                                          obj\Debug\uCOS_II\SOURCE\os_sem.o
+                                                  obj\Debug\uCOS_II\SOURCE\API\os_api.o
+OSSemPend                                         obj\Debug\uCOS_II\SOURCE\os_sem.o
+                                                  obj\Debug\uCOS_II\SOURCE\API\os_api.o
+                                                  obj\Debug\S3C6410\source\uart.o
+                                                  obj\Debug\S3C6410\source\malloc.o
+                                                  obj\Debug\S3C6410\source\main_atc.o
+OSSemPost                                         obj\Debug\uCOS_II\SOURCE\os_sem.o
+                                                  obj\Debug\S3C6410\source\uart.o
+                                                  obj\Debug\S3C6410\source\malloc.o
+                                                  obj\Debug\S3C6410\source\main_atc.o
+OSSemQuery                                        obj\Debug\uCOS_II\SOURCE\os_sem.o
+                                                  obj\Debug\S3C6410\source\main_atc.o
+OSSemSet                                          obj\Debug\uCOS_II\SOURCE\os_sem.o
+OSStart                                           obj\Debug\uCOS_II\SOURCE\os_core.o
+                                                  obj\Debug\S3C6410\source\main.o
+OSStartHighRdy                                    obj\Debug\uCOS_II\arm\os_cpu_a.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_core.o
+OSStatInit                                        obj\Debug\uCOS_II\SOURCE\os_core.o
+                                                  obj\Debug\S3C6410\source\main_atc.o
+OSStatRdy                                         obj\Debug\uCOS_II\SOURCE\os_core.o
+OSTCBCur                                          obj\Debug\uCOS_II\SOURCE\os_time.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_task.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_sem.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_q.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_mutex.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_mbox.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_flag.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_core.o
+                                                  obj\Debug\uCOS_II\arm\os_cpu_a.o
+OSTCBFreeList                                     obj\Debug\uCOS_II\SOURCE\os_task.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_core.o
+OSTCBHighRdy                                      obj\Debug\uCOS_II\SOURCE\os_core.o
+                                                  obj\Debug\uCOS_II\arm\os_cpu_a.o
+OSTCBInitHook                                     obj\Debug\uCOS_II\arm\Os_cpu_c.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_core.o
+OSTCBList                                         obj\Debug\uCOS_II\SOURCE\os_task.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_core.o
+OSTCBPrioTbl                                      obj\Debug\uCOS_II\SOURCE\os_time.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_task.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_mutex.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_core.o
+OSTCBTbl                                          obj\Debug\uCOS_II\SOURCE\os_core.o
+OSTaskChangePrio                                  obj\Debug\uCOS_II\SOURCE\os_task.o
+OSTaskCreate                                      obj\Debug\uCOS_II\SOURCE\os_task.o
+                                                  obj\Debug\S3C6410\source\main_atc.o
+                                                  obj\Debug\S3C6410\source\main.o
+                                                  obj\Debug\Printf\Printf.o
+OSTaskCreateExt                                   obj\Debug\uCOS_II\SOURCE\os_task.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_core.o
+OSTaskCreateHook                                  obj\Debug\uCOS_II\arm\Os_cpu_c.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_core.o
+OSTaskCtr                                         obj\Debug\uCOS_II\SOURCE\os_task.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_core.o
+OSTaskDel                                         obj\Debug\uCOS_II\SOURCE\os_task.o
+OSTaskDelHook                                     obj\Debug\uCOS_II\arm\Os_cpu_c.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_task.o
+OSTaskDelReq                                      obj\Debug\uCOS_II\SOURCE\os_task.o
+OSTaskIdleHook                                    obj\Debug\uCOS_II\arm\Os_cpu_c.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_core.o
+OSTaskIdleStk                                     obj\Debug\uCOS_II\SOURCE\os_core.o
+OSTaskNameGet                                     obj\Debug\uCOS_II\SOURCE\os_task.o
+OSTaskNameSet                                     obj\Debug\uCOS_II\SOURCE\os_task.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_core.o
+OSTaskQuery                                       obj\Debug\uCOS_II\SOURCE\os_task.o
+OSTaskResume                                      obj\Debug\uCOS_II\SOURCE\os_task.o
+OSTaskStatHook                                    obj\Debug\uCOS_II\arm\Os_cpu_c.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_core.o
+OSTaskStatStk                                     obj\Debug\uCOS_II\SOURCE\os_core.o
+OSTaskStkChk                                      obj\Debug\uCOS_II\SOURCE\os_task.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_core.o
+OSTaskStkInit                                     obj\Debug\uCOS_II\arm\Os_cpu_c.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_task.o
+OSTaskSuspend                                     obj\Debug\uCOS_II\SOURCE\os_task.o
+OSTaskSwHook                                      obj\Debug\uCOS_II\arm\Os_cpu_c.o
+                                                  obj\Debug\uCOS_II\arm\os_cpu_a.o
+OSTickISR                                         obj\Debug\uCOS_II\arm\os_cpu_a.o
+OSTime                                            obj\Debug\uCOS_II\SOURCE\os_time.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_core.o
+OSTimeDly                                         obj\Debug\uCOS_II\SOURCE\os_time.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_core.o
+                                                  obj\Debug\S3C6410\source\main_atc.o
+                                                  obj\Debug\Printf\Printf.o
+OSTimeDlyHMSM                                     obj\Debug\uCOS_II\SOURCE\os_time.o
+                                                  obj\Debug\uCOS_II\SOURCE\API\os_api.o
+OSTimeDlyResume                                   obj\Debug\uCOS_II\SOURCE\os_time.o
+OSTimeGet                                         obj\Debug\uCOS_II\SOURCE\os_time.o
+OSTimeSet                                         obj\Debug\uCOS_II\SOURCE\os_time.o
+                                                  obj\Debug\S3C6410\source\main.o
+OSTimeTick                                        obj\Debug\uCOS_II\SOURCE\os_core.o
+                                                  obj\Debug\uCOS_II\arm\os_cpu_a.o
+                                                  obj\Debug\S3C6410\source\timer.o
+OSTimeTickHook                                    obj\Debug\uCOS_II\arm\Os_cpu_c.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_core.o
+OSUnMapTbl                                        obj\Debug\uCOS_II\SOURCE\os_core.o
+OSVersion                                         obj\Debug\uCOS_II\SOURCE\os_core.o
+                                                  obj\Debug\S3C6410\source\main_atc.o
+OS_CPU_IRQ_ISR                                    obj\Debug\uCOS_II\arm\os_cpu_a.o
+                                                  obj\Debug\S3C6410\source\6410init.o
+OS_Dummy                                          obj\Debug\uCOS_II\SOURCE\os_core.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_task.o
+OS_EventTO                                        obj\Debug\uCOS_II\SOURCE\os_core.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_sem.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_q.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_mutex.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_mbox.o
+OS_EventTaskRdy                                   obj\Debug\uCOS_II\SOURCE\os_core.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_sem.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_q.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_mutex.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_mbox.o
+OS_EventTaskWait                                  obj\Debug\uCOS_II\SOURCE\os_core.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_sem.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_q.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_mutex.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_mbox.o
+OS_EventWaitListInit                              obj\Debug\uCOS_II\SOURCE\os_core.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_sem.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_q.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_mutex.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_mbox.o
+OS_FlagInit                                       obj\Debug\uCOS_II\SOURCE\os_flag.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_core.o
+OS_FlagUnlink                                     obj\Debug\uCOS_II\SOURCE\os_flag.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_task.o
+OS_MemClr                                         obj\Debug\uCOS_II\SOURCE\os_core.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_q.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_mem.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_flag.o
+OS_MemCopy                                        obj\Debug\uCOS_II\SOURCE\os_core.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_task.o
+OS_MemInit                                        obj\Debug\uCOS_II\SOURCE\os_mem.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_core.o
+OS_QInit                                          obj\Debug\uCOS_II\SOURCE\os_q.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_core.o
+OS_Sched                                          obj\Debug\uCOS_II\SOURCE\os_core.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_time.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_task.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_sem.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_q.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_mutex.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_mbox.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_flag.o
+OS_StrCopy                                        obj\Debug\uCOS_II\SOURCE\os_core.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_task.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_mem.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_flag.o
+OS_StrLen                                         obj\Debug\uCOS_II\SOURCE\os_core.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_task.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_mem.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_flag.o
+OS_TCBInit                                        obj\Debug\uCOS_II\SOURCE\os_core.o
+                                                  obj\Debug\uCOS_II\SOURCE\os_task.o
+OS_TaskIdle                                       obj\Debug\uCOS_II\SOURCE\os_core.o
+OS_TaskStat                                       obj\Debug\uCOS_II\SOURCE\os_core.o
+OS_TaskStatStkChk                                 obj\Debug\uCOS_II\SOURCE\os_core.o
+OS_TaskStkClr                                     obj\Debug\uCOS_II\SOURCE\os_task.o
+Port_Init                                         obj\Debug\S3C6410\source\gpio.o
+                                                  obj\Debug\S3C6410\source\main.o
+REG_LR_VALUE                                      obj\Debug\S3C6410\source\timer.o
+SDRAMtest                                         obj\Debug\S3C6410\source\6410slib.o
+SET_IF                                            obj\Debug\S3C6410\source\6410slib.o
+Service                                           obj\Debug\S3C6410\source\main_atc.o
+ServiceA                                          obj\Debug\S3C6410\source\main_atc.o
+ServiceAStk                                       obj\Debug\S3C6410\source\main_atc.o
+ServiceB                                          obj\Debug\S3C6410\source\main_atc.o
+ServiceBStk                                       obj\Debug\S3C6410\source\main_atc.o
+ServiceC                                          obj\Debug\S3C6410\source\main_atc.o
+ServiceCStk                                       obj\Debug\S3C6410\source\main_atc.o
+ServiceD                                          obj\Debug\S3C6410\source\main_atc.o
+ServiceDStk                                       obj\Debug\S3C6410\source\main_atc.o
+ServiceStk                                        obj\Debug\S3C6410\source\main_atc.o
+TA                                                obj\Debug\S3C6410\source\main_atc.o
+TB                                                obj\Debug\S3C6410\source\main_atc.o
+TC                                                obj\Debug\S3C6410\source\main_atc.o
+TD                                                obj\Debug\S3C6410\source\main_atc.o
+TaskUart                                          obj\Debug\Printf\Printf.o
+TaskUartStk                                       obj\Debug\Printf\Printf.o
+Terminal                                          obj\Debug\S3C6410\source\main_atc.o
+TerminalStk                                       obj\Debug\S3C6410\source\main_atc.o
+Timer4_ISR                                        obj\Debug\S3C6410\source\timer.o
+Uart_Printf                                       obj\Debug\S3C6410\source\uart.o
+                                                  obj\Debug\S3C6410\source\malloc.o
+Uart_SendHex                                      obj\Debug\S3C6410\source\uart.o
+Uart_SendString                                   obj\Debug\S3C6410\source\uart.o
+                                                  obj\Debug\Printf\Printf.o
+Uart_init                                         obj\Debug\S3C6410\source\uart.o
+                                                  obj\Debug\S3C6410\source\main.o
+Uart_putc                                         obj\Debug\S3C6410\source\uart.o
+WR_IF                                             obj\Debug\S3C6410\source\6410slib.o
+WaitStk                                           obj\Debug\S3C6410\source\main_atc.o
+_Balloc                                           c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mprec.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-dtoa.o)
+_Bfree                                            c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mprec.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-dtoa.o)
+_PathLocale                                       c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-locale.o)
+__ENTRY                                           obj\Debug\S3C6410\source\6410init.o
+                                                  obj\Debug\S3C6410\source\timer.o
+                                                  obj\Debug\S3C6410\source\mmu.o
+__adddf3                                          c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_arm_addsubdf3.o)
+__aeabi_cdcmpeq                                   c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_arm_cmpdf2.o)
+__aeabi_cdcmple                                   c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_arm_cmpdf2.o)
+__aeabi_cdrcmple                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_arm_cmpdf2.o)
+__aeabi_d2iz                                      c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_arm_fixdfsi.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-dtoa.o)
+__aeabi_dadd                                      c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_arm_addsubdf3.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-dtoa.o)
+__aeabi_dcmpeq                                    c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_arm_cmpdf2.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-dtoa.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-svfprintf.o)
+__aeabi_dcmpge                                    c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_arm_cmpdf2.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-dtoa.o)
+__aeabi_dcmpgt                                    c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_arm_cmpdf2.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-dtoa.o)
+__aeabi_dcmple                                    c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_arm_cmpdf2.o)
+__aeabi_dcmplt                                    c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_arm_cmpdf2.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-dtoa.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-svfprintf.o)
+__aeabi_ddiv                                      c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_arm_muldivdf3.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mprec.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-dtoa.o)
+__aeabi_dmul                                      c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_arm_muldivdf3.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mprec.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-dtoa.o)
+__aeabi_drsub                                     c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_arm_addsubdf3.o)
+__aeabi_dsub                                      c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_arm_addsubdf3.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-dtoa.o)
+__aeabi_f2d                                       c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_arm_addsubdf3.o)
+__aeabi_i2d                                       c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_arm_addsubdf3.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-dtoa.o)
+__aeabi_idiv0                                     c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_dvmd_tls.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_udivsi3.o)
+__aeabi_l2d                                       c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_arm_addsubdf3.o)
+__aeabi_ldiv0                                     c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_dvmd_tls.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_aeabi_uldivmod.o)
+__aeabi_ui2d                                      c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_arm_addsubdf3.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-dtoa.o)
+__aeabi_uidiv                                     c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_udivsi3.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_udivdi3.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_divdi3.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-dtoa.o)
+                                                  obj\Debug\uCOS_II\SOURCE\os_core.o
+                                                  obj\Debug\S3C6410\source\speed.o
+__aeabi_uidivmod                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_udivsi3.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_udivdi3.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_divdi3.o)
+__aeabi_ul2d                                      c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_arm_addsubdf3.o)
+__aeabi_uldivmod                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_aeabi_uldivmod.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-svfiprintf.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-svfprintf.o)
+__any_on                                          c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mprec.o)
+__b2d                                             c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mprec.o)
+__clzsi2                                          c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_clzsi2.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_udivdi3.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_divdi3.o)
+__cmpdf2                                          c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_arm_cmpdf2.o)
+__copybits                                        c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mprec.o)
+__d2b                                             c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mprec.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-dtoa.o)
+__divdf3                                          c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_arm_muldivdf3.o)
+__divdi3                                          c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_divdi3.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(bpabi.o)
+__eqdf2                                           c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_arm_cmpdf2.o)
+__extendsfdf2                                     c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_arm_addsubdf3.o)
+__fixdfsi                                         c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_arm_fixdfsi.o)
+__floatdidf                                       c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_arm_addsubdf3.o)
+__floatsidf                                       c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_arm_addsubdf3.o)
+__floatundidf                                     c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_arm_addsubdf3.o)
+__floatunsidf                                     c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_arm_addsubdf3.o)
+__fpclassifyd                                     c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-s_fpclassify.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-svfprintf.o)
+__gedf2                                           c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_arm_cmpdf2.o)
+__gnu_ldivmod_helper                              c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(bpabi.o)
+__gnu_uldivmod_helper                             c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(bpabi.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_aeabi_uldivmod.o)
+__gtdf2                                           c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_arm_cmpdf2.o)
+__hi0bits                                         c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mprec.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-dtoa.o)
+__i2b                                             c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mprec.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-dtoa.o)
+__ledf2                                           c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_arm_cmpdf2.o)
+__lo0bits                                         c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mprec.o)
+__locale_charset                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-locale.o)
+__locale_cjk_lang                                 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-locale.o)
+__locale_mb_cur_max                               c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-locale.o)
+__locale_msgcharset                               c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-locale.o)
+__lshift                                          c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mprec.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-dtoa.o)
+__ltdf2                                           c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_arm_cmpdf2.o)
+__malloc_av_                                      c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mallocr.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-reallocr.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-freer.o)
+__malloc_current_mallinfo                         c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mallocr.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-freer.o)
+__malloc_lock                                     c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mlock.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-reallocr.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-freer.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mallocr.o)
+__malloc_max_sbrked_mem                           c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mallocr.o)
+__malloc_max_total_mem                            c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mallocr.o)
+__malloc_sbrk_base                                c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mallocr.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-freer.o)
+__malloc_top_pad                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mallocr.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-freer.o)
+__malloc_trim_threshold                           c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mallocr.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-freer.o)
+__malloc_unlock                                   c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mlock.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-reallocr.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-freer.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mallocr.o)
+__mb_cur_max                                      c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-locale.o)
+__mcmp                                            c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mprec.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-dtoa.o)
+__mdiff                                           c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mprec.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-dtoa.o)
+__mlocale_changed                                 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-locale.o)
+__mprec_bigtens                                   c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mprec.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-dtoa.o)
+__mprec_tens                                      c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mprec.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-dtoa.o)
+__mprec_tinytens                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mprec.o)
+__muldf3                                          c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_arm_muldivdf3.o)
+__multadd                                         c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mprec.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-dtoa.o)
+__multiply                                        c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mprec.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-dtoa.o)
+__nedf2                                           c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_arm_cmpdf2.o)
+__nlocale_changed                                 c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-locale.o)
+__pow5mult                                        c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mprec.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-dtoa.o)
+__ratio                                           c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mprec.o)
+__s2b                                             c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mprec.o)
+__ssprint_r                                       c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-svfiprintf.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-svfprintf.o)
+__subdf3                                          c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_arm_addsubdf3.o)
+__udivdi3                                         c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_udivdi3.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(bpabi.o)
+__udivsi3                                         c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4\libgcc.a(_udivsi3.o)
+__ulp                                             c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mprec.o)
+_calloc_r                                         c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-callocr.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mprec.o)
+_dtoa_r                                           c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-dtoa.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-svfprintf.o)
+_free_r                                           c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-freer.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-reent.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-reallocr.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-svfiprintf.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mallocr.o)
+_global_impure_ptr                                c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-impure.o)
+_impure_ptr                                       c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-impure.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-reent.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-locale.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-vsprintf.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-sprintf.o)
+_localeconv_r                                     c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-locale.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-svfprintf.o)
+_malloc_r                                         c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mallocr.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-reallocr.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-callocr.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-svfiprintf.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-svfprintf.o)
+_malloc_trim_r                                    c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-freer.o)
+_mprec_log10                                      c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mprec.o)
+_realloc_r                                        c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-reallocr.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-svfiprintf.o)
+_reclaim_reent                                    c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-reent.o)
+_sbrk                                             obj\Debug\S3C6410\source\malloc.o
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-sbrkr.o)
+_sbrk_r                                           c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-sbrkr.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-freer.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mallocr.o)
+_setlocale_r                                      c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-locale.o)
+_sprintf_r                                        c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-sprintf.o)
+_svfiprintf_r                                     c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-svfiprintf.o)
+_svfprintf_r                                      c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-svfprintf.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-vsprintf.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-sprintf.o)
+_vsprintf_r                                       c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-vsprintf.o)
+_wrapup_reent                                     c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-reent.o)
+airport_status                                    obj\Debug\S3C6410\source\main_atc.o
+aisle                                             obj\Debug\S3C6410\source\main_atc.o
+alloc_mem                                         obj\Debug\S3C6410\source\malloc.o
+arrive                                            obj\Debug\S3C6410\source\main_atc.o
+buzzer                                            obj\Debug\S3C6410\source\gpio.o
+                                                  obj\Debug\S3C6410\source\main_atc.o
+cap_sem                                           obj\Debug\S3C6410\source\main_atc.o
+check_memory                                      obj\Debug\S3C6410\source\malloc.o
+cleanup_glue                                      c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-reent.o)
+copy_mem                                          obj\Debug\S3C6410\source\malloc.o
+counts                                            obj\Debug\S3C6410\source\main_atc.o
+current_heap_end                                  obj\Debug\S3C6410\source\malloc.o
+departA_sem                                       obj\Debug\S3C6410\source\main_atc.o
+departB_sem                                       obj\Debug\S3C6410\source\main_atc.o
+departure                                         obj\Debug\S3C6410\source\main_atc.o
+done_sem                                          obj\Debug\S3C6410\source\main_atc.o
+enter                                             obj\Debug\S3C6410\source\main_atc.o
+errno                                             c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-reent.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-sbrkr.o)
+fire_sem                                          obj\Debug\S3C6410\source\main_atc.o
+free_mem                                          obj\Debug\S3C6410\source\malloc.o
+get_FCLK                                          obj\Debug\S3C6410\source\speed.o
+get_PCLK                                          obj\Debug\S3C6410\source\speed.o
+                                                  obj\Debug\S3C6410\source\timer.o
+get_int_vect                                      obj\Debug\uCOS_II\arm\Os_cpu_c.o
+                                                  obj\Debug\uCOS_II\arm\os_cpu_a.o
+get_x                                             obj\Debug\uCOS_II\arm\Os_cpu_c.o
+heap_end                                          obj\Debug\S3C6410\source\malloc.o
+heap_start                                        obj\Debug\S3C6410\source\malloc.o
+indicatorLED                                      obj\Debug\S3C6410\source\main_atc.o
+land                                              obj\Debug\S3C6410\source\main_atc.o
+lane                                              obj\Debug\S3C6410\source\main_atc.o
+localeconv                                        c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-locale.o)
+main                                              obj\Debug\S3C6410\source\main.o
+                                                  obj\Debug\S3C6410\source\6410init.o
+main_msg                                          obj\Debug\S3C6410\source\main_atc.o
+max_capacity_sem                                  obj\Debug\S3C6410\source\main_atc.o
+max_hole                                          obj\Debug\S3C6410\source\malloc.o
+mem_init                                          obj\Debug\S3C6410\source\malloc.o
+                                                  obj\Debug\S3C6410\source\main.o
+memchr                                            c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-memchr.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-svfiprintf.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-svfprintf.o)
+memcpy                                            c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-memcpy.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-svfiprintf.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-mprec.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-dtoa.o)
+memmove                                           c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-memmove.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-reallocr.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-svfiprintf.o)
+memset                                            c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-memset.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-callocr.o)
+mutex1_sem                                        obj\Debug\S3C6410\source\main_atc.o
+mutex2_sem                                        obj\Debug\S3C6410\source\main_atc.o
+nByteUsedMem                                      obj\Debug\S3C6410\source\malloc.o
+nByteUsedMemBak                                   obj\Debug\S3C6410\source\malloc.o
+planeCount                                        obj\Debug\S3C6410\source\main_atc.o
+realloc_mem                                       obj\Debug\S3C6410\source\malloc.o
+serviceAQ                                         obj\Debug\S3C6410\source\main_atc.o
+serviceBQ                                         obj\Debug\S3C6410\source\main_atc.o
+serviceCQ                                         obj\Debug\S3C6410\source\main_atc.o
+serviceDQ                                         obj\Debug\S3C6410\source\main_atc.o
+serviceQ                                          obj\Debug\S3C6410\source\main_atc.o
+service_msg                                       obj\Debug\S3C6410\source\main_atc.o
+service_sem                                       obj\Debug\S3C6410\source\main_atc.o
+setlocale                                         c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-locale.o)
+sprintf                                           c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-sprintf.o)
+                                                  obj\Debug\S3C6410\source\uart.o
+status                                            obj\Debug\S3C6410\source\main_atc.o
+strcmp                                            c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-strcmp.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-locale.o)
+strlen                                            c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-strlen.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-svfiprintf.o)
+                                                  c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-svfprintf.o)
+term                                              obj\Debug\S3C6410\source\main_atc.o
+termA_sem                                         obj\Debug\S3C6410\source\main_atc.o
+termB_sem                                         obj\Debug\S3C6410\source\main_atc.o
+termC_sem                                         obj\Debug\S3C6410\source\main_atc.o
+termD_sem                                         obj\Debug\S3C6410\source\main_atc.o
+term_arrive                                       obj\Debug\S3C6410\source\main_atc.o
+terminalCount                                     obj\Debug\S3C6410\source\main_atc.o
+terminalLED                                       obj\Debug\S3C6410\source\main_atc.o
+timer_init                                        obj\Debug\S3C6410\source\timer.o
+                                                  obj\Debug\S3C6410\source\main.o
+vsprintf                                          c:/program files (x86)/emide/emide v2.20/arm/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib\libc.a(lib_a-vsprintf.o)
+                                                  obj\Debug\S3C6410\source\uart.o
+                                                  obj\Debug\Printf\Printf.o
+wait_aisle                                        obj\Debug\S3C6410\source\main_atc.o
+wait_aisle_sem                                    obj\Debug\S3C6410\source\main_atc.o
+wait_sem                                          obj\Debug\S3C6410\source\main_atc.o
+waitaisleQ                                        obj\Debug\S3C6410\source\main_atc.o
+waitaisle_msg                                     obj\Debug\S3C6410\source\main_atc.o

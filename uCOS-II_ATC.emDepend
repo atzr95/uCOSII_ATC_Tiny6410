@@ -1,0 +1,872 @@
+# depslib dependency file v1.0
+1336564666 source:f:\ucos-ii_semaphore_wk4\s3c6410\source\6410slib.s
+
+1336564666 source:f:\ucos-ii_semaphore_wk4\ucos_ii\arm\os_cpu_a.s
+
+1333618068 source:f:\ucos-ii_semaphore_wk4\ucos_ii\source\os_core.c
+	"ucos_ii.h"
+
+1413373616 f:\ucos-ii_semaphore_wk4\ucos_ii\source\ucos_ii.h
+	"os_cfg.h"
+	"..\arm\OS_CPU.H"
+
+1414224722 f:\ucos-ii_semaphore_wk4\ucos_ii\source\os_cfg.h
+
+1217556108 f:\ucos-ii_semaphore_wk4\ucos_ii\arm\os_cpu.h
+
+1333613300 source:f:\ucos-ii_semaphore_wk4\ucos_ii\source\os_flag.c
+	"ucos_ii.h"
+
+1333613324 source:f:\ucos-ii_semaphore_wk4\ucos_ii\source\os_mbox.c
+	"ucos_ii.h"
+
+1333613340 source:f:\ucos-ii_semaphore_wk4\ucos_ii\source\os_mem.c
+	"ucos_ii.h"
+
+1333613356 source:f:\ucos-ii_semaphore_wk4\ucos_ii\source\os_mutex.c
+	"ucos_ii.h"
+
+1333613372 source:f:\ucos-ii_semaphore_wk4\ucos_ii\source\os_q.c
+	"ucos_ii.h"
+
+1333613384 source:f:\ucos-ii_semaphore_wk4\ucos_ii\source\os_sem.c
+	"ucos_ii.h"
+
+1333613400 source:f:\ucos-ii_semaphore_wk4\ucos_ii\source\os_task.c
+	"ucos_ii.h"
+
+1333613412 source:f:\ucos-ii_semaphore_wk4\ucos_ii\source\os_time.c
+	"ucos_ii.h"
+
+1333613424 source:f:\ucos-ii_semaphore_wk4\ucos_ii\source\os_tmr.c
+	"ucos_ii.h"
+
+1413373690 source:f:\ucos-ii_semaphore_wk4\printf\printf.c
+	<stdarg.h>
+	"..\uCOS_II\SOURCE\ucos_ii.h"
+	<stdio.h>
+	"..\uCOS_II\API\app_cfg.h"
+	"..\S3C6410\includes\uart.h"
+
+1415187338 f:\ucos-ii_semaphore_wk4\ucos_ii\api\app_cfg.h
+	"app_cfg_sem.h"
+
+1494477804 f:\ucos-ii_semaphore_wk4\ucos_ii\api\app_cfg_sem.h
+
+1333816222 f:\ucos-ii_semaphore_wk4\s3c6410\includes\uart.h
+
+1414607430 source:f:\ucos-ii_semaphore_wk4\s3c6410\source\6410init.s
+
+1413373958 source:f:\ucos-ii_semaphore_wk4\s3c6410\source\gpio.c
+	"..\includes\gpio.h"
+
+1337105340 f:\ucos-ii_semaphore_wk4\s3c6410\includes\gpio.h
+	"s3c64x0.h"
+
+1338049476 f:\ucos-ii_semaphore_wk4\s3c6410\includes\s3c64x0.h
+	"typedef1.h"
+
+1333616628 f:\ucos-ii_semaphore_wk4\s3c6410\includes\typedef1.h
+
+1415187254 source:f:\ucos-ii_semaphore_wk4\s3c6410\source\main.c
+	"..\..\uCOS_II\SOURCE\ucos_ii.h"
+	"..\includes\s3c64x0.h"
+	"..\includes\config.h"
+	"..\..\uCOS_II\API\app_cfg.h"
+	"..\includes\uart.h"
+	"..\includes\gpio.h"
+	"..\..\Printf\Printf.h"
+	"..\includes\mmu.h"
+	"..\includes\malloc.h"
+
+1413001194 f:\ucos-ii_semaphore_wk4\s3c6410\includes\config.h
+
+1217491238 f:\ucos-ii_semaphore_wk4\printf\printf.h
+
+1267511124 f:\ucos-ii_semaphore_wk4\s3c6410\includes\mmu.h
+
+1412997754 f:\ucos-ii_semaphore_wk4\s3c6410\includes\malloc.h
+
+1413394390 source:f:\ucos-ii_semaphore_wk4\s3c6410\source\malloc.c
+	<stdio.h>
+	"..\includes\config.h"
+	"..\includes\uart.h"
+	"..\..\uCOS_II\SOURCE\ucos_ii.h"
+
+1413374196 source:f:\ucos-ii_semaphore_wk4\s3c6410\source\mmu.c
+	"..\includes\uart.h"
+	"..\includes\typedef1.h"
+	"..\includes\mmu.h"
+	"..\includes\config.h"
+
+1413374214 source:f:\ucos-ii_semaphore_wk4\s3c6410\source\speed.c
+	"..\includes\typedef1.h"
+	"..\includes\config.h"
+	"..\includes\s3c64x0.h"
+
+1413374240 source:f:\ucos-ii_semaphore_wk4\s3c6410\source\timer.c
+	"..\includes\typedef1.h"
+	"..\includes\config.h"
+	"..\includes\s3c64x0.h"
+	"..\..\uCOS_II\SOURCE\ucos_ii.h"
+	"..\includes\uart.h"
+
+1413374262 source:f:\ucos-ii_semaphore_wk4\s3c6410\source\uart.c
+	<stdarg.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	"..\includes\config.h"
+	"..\includes\typedef1.h"
+	"..\includes\s3c64x0.h"
+	"..\..\uCOS_II\SOURCE\ucos_ii.h"
+
+1413374282 source:f:\ucos-ii_semaphore_wk4\ucos_ii\arm\os_cpu_c.c
+	"..\SOURCE\ucos_ii.h"
+
+1412937450 source:f:\ucos-ii_semaphore_wk4\ucos_ii\source\api\os_api.c
+	"os_api.h"
+
+1413374340 f:\ucos-ii_semaphore_wk4\ucos_ii\source\api\os_api.h
+	"..\ucos_ii.h"
+	"..\..\..\S3C6410\includes\config.h"
+
+1413374358 source:f:\ucos-ii_semaphore_wk4\ucos_ii\source\os_dbg_r.c
+	"ucos_ii.h"
+
+1413373690 source:d:\inti\embedded\ucos-ii_atc\printf\printf.c
+	<stdarg.h>
+	"..\uCOS_II\SOURCE\ucos_ii.h"
+	<stdio.h>
+	"..\uCOS_II\API\app_cfg.h"
+	"..\S3C6410\includes\uart.h"
+
+1413373616 d:\inti\embedded\ucos-ii_atc\ucos_ii\source\ucos_ii.h
+	"os_cfg.h"
+	"..\arm\OS_CPU.H"
+
+1414224722 d:\inti\embedded\ucos-ii_atc\ucos_ii\source\os_cfg.h
+
+1217556108 d:\inti\embedded\ucos-ii_atc\ucos_ii\arm\os_cpu.h
+
+1497497121 d:\inti\embedded\ucos-ii_atc\ucos_ii\api\app_cfg.h
+	"app_cfg_atc.h"
+
+1498638688 d:\inti\embedded\ucos-ii_atc\ucos_ii\api\app_cfg_atc.h
+
+1333816222 d:\inti\embedded\ucos-ii_atc\s3c6410\includes\uart.h
+
+1414607430 source:d:\inti\embedded\ucos-ii_atc\s3c6410\source\6410init.s
+
+1336564666 source:d:\inti\embedded\ucos-ii_atc\s3c6410\source\6410slib.s
+
+1498028564 source:d:\inti\embedded\ucos-ii_atc\s3c6410\source\gpio.c
+	"..\includes\gpio.h"
+
+1498028964 d:\inti\embedded\ucos-ii_atc\s3c6410\includes\gpio.h
+	"s3c64x0.h"
+
+1338049476 d:\inti\embedded\ucos-ii_atc\s3c6410\includes\s3c64x0.h
+	"typedef1.h"
+
+1333616628 d:\inti\embedded\ucos-ii_atc\s3c6410\includes\typedef1.h
+
+1415187254 source:d:\inti\embedded\ucos-ii_atc\s3c6410\source\main.c
+	"..\..\uCOS_II\SOURCE\ucos_ii.h"
+	"..\includes\s3c64x0.h"
+	"..\includes\config.h"
+	"..\..\uCOS_II\API\app_cfg.h"
+	"..\includes\uart.h"
+	"..\includes\gpio.h"
+	"..\..\Printf\Printf.h"
+	"..\includes\mmu.h"
+	"..\includes\malloc.h"
+
+1413001194 d:\inti\embedded\ucos-ii_atc\s3c6410\includes\config.h
+
+1217491238 d:\inti\embedded\ucos-ii_atc\printf\printf.h
+
+1267511124 d:\inti\embedded\ucos-ii_atc\s3c6410\includes\mmu.h
+
+1412997754 d:\inti\embedded\ucos-ii_atc\s3c6410\includes\malloc.h
+
+1498199626 source:d:\inti\embedded\ucos-ii_atc\s3c6410\source\main_atc.c
+	"..\..\uCOS_II\SOURCE\ucos_ii.h"
+	"..\includes\s3c64x0.h"
+	"..\includes\config.h"
+	"..\..\uCOS_II\API\app_cfg.h"
+	"..\includes\uart.h"
+	"..\includes\gpio.h"
+	"..\..\Printf\Printf.h"
+	"..\includes\mmu.h"
+	"..\includes\malloc.h"
+
+1413394390 source:d:\inti\embedded\ucos-ii_atc\s3c6410\source\malloc.c
+	<stdio.h>
+	"..\includes\config.h"
+	"..\includes\uart.h"
+	"..\..\uCOS_II\SOURCE\ucos_ii.h"
+
+1413374196 source:d:\inti\embedded\ucos-ii_atc\s3c6410\source\mmu.c
+	"..\includes\uart.h"
+	"..\includes\typedef1.h"
+	"..\includes\mmu.h"
+	"..\includes\config.h"
+
+1413374214 source:d:\inti\embedded\ucos-ii_atc\s3c6410\source\speed.c
+	"..\includes\typedef1.h"
+	"..\includes\config.h"
+	"..\includes\s3c64x0.h"
+
+1413374240 source:d:\inti\embedded\ucos-ii_atc\s3c6410\source\timer.c
+	"..\includes\typedef1.h"
+	"..\includes\config.h"
+	"..\includes\s3c64x0.h"
+	"..\..\uCOS_II\SOURCE\ucos_ii.h"
+	"..\includes\uart.h"
+
+1413374262 source:d:\inti\embedded\ucos-ii_atc\s3c6410\source\uart.c
+	<stdarg.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	"..\includes\config.h"
+	"..\includes\typedef1.h"
+	"..\includes\s3c64x0.h"
+	"..\..\uCOS_II\SOURCE\ucos_ii.h"
+
+1336564666 source:d:\inti\embedded\ucos-ii_atc\ucos_ii\arm\os_cpu_a.s
+
+1413374282 source:d:\inti\embedded\ucos-ii_atc\ucos_ii\arm\os_cpu_c.c
+	"..\SOURCE\ucos_ii.h"
+
+1412937450 source:d:\inti\embedded\ucos-ii_atc\ucos_ii\source\api\os_api.c
+	"os_api.h"
+
+1413374340 d:\inti\embedded\ucos-ii_atc\ucos_ii\source\api\os_api.h
+	"..\ucos_ii.h"
+	"..\..\..\S3C6410\includes\config.h"
+
+1333618068 source:d:\inti\embedded\ucos-ii_atc\ucos_ii\source\os_core.c
+	"ucos_ii.h"
+
+1413374358 source:d:\inti\embedded\ucos-ii_atc\ucos_ii\source\os_dbg_r.c
+	"ucos_ii.h"
+
+1333613300 source:d:\inti\embedded\ucos-ii_atc\ucos_ii\source\os_flag.c
+	"ucos_ii.h"
+
+1333613324 source:d:\inti\embedded\ucos-ii_atc\ucos_ii\source\os_mbox.c
+	"ucos_ii.h"
+
+1333613340 source:d:\inti\embedded\ucos-ii_atc\ucos_ii\source\os_mem.c
+	"ucos_ii.h"
+
+1333613356 source:d:\inti\embedded\ucos-ii_atc\ucos_ii\source\os_mutex.c
+	"ucos_ii.h"
+
+1333613372 source:d:\inti\embedded\ucos-ii_atc\ucos_ii\source\os_q.c
+	"ucos_ii.h"
+
+1333613384 source:d:\inti\embedded\ucos-ii_atc\ucos_ii\source\os_sem.c
+	"ucos_ii.h"
+
+1333613400 source:d:\inti\embedded\ucos-ii_atc\ucos_ii\source\os_task.c
+	"ucos_ii.h"
+
+1333613412 source:d:\inti\embedded\ucos-ii_atc\ucos_ii\source\os_time.c
+	"ucos_ii.h"
+
+1333613424 source:d:\inti\embedded\ucos-ii_atc\ucos_ii\source\os_tmr.c
+	"ucos_ii.h"
+
+1413373690 source:d:\inti\embedded\ucos-ii_atc - copy\printf\printf.c
+	<stdarg.h>
+	"..\uCOS_II\SOURCE\ucos_ii.h"
+	<stdio.h>
+	"..\uCOS_II\API\app_cfg.h"
+	"..\S3C6410\includes\uart.h"
+
+1413373616 d:\inti\embedded\ucos-ii_atc - copy\ucos_ii\source\ucos_ii.h
+	"os_cfg.h"
+	"..\arm\OS_CPU.H"
+
+1414224722 d:\inti\embedded\ucos-ii_atc - copy\ucos_ii\source\os_cfg.h
+
+1217556108 d:\inti\embedded\ucos-ii_atc - copy\ucos_ii\arm\os_cpu.h
+
+1497497121 d:\inti\embedded\ucos-ii_atc - copy\ucos_ii\api\app_cfg.h
+	"app_cfg_atc.h"
+
+1498638688 d:\inti\embedded\ucos-ii_atc - copy\ucos_ii\api\app_cfg_atc.h
+
+1333816222 d:\inti\embedded\ucos-ii_atc - copy\s3c6410\includes\uart.h
+
+1414607430 source:d:\inti\embedded\ucos-ii_atc - copy\s3c6410\source\6410init.s
+
+1336564666 source:d:\inti\embedded\ucos-ii_atc - copy\s3c6410\source\6410slib.s
+
+1498028564 source:d:\inti\embedded\ucos-ii_atc - copy\s3c6410\source\gpio.c
+	"..\includes\gpio.h"
+
+1498028964 d:\inti\embedded\ucos-ii_atc - copy\s3c6410\includes\gpio.h
+	"s3c64x0.h"
+
+1338049476 d:\inti\embedded\ucos-ii_atc - copy\s3c6410\includes\s3c64x0.h
+	"typedef1.h"
+
+1333616628 d:\inti\embedded\ucos-ii_atc - copy\s3c6410\includes\typedef1.h
+
+1415187254 source:d:\inti\embedded\ucos-ii_atc - copy\s3c6410\source\main.c
+	"..\..\uCOS_II\SOURCE\ucos_ii.h"
+	"..\includes\s3c64x0.h"
+	"..\includes\config.h"
+	"..\..\uCOS_II\API\app_cfg.h"
+	"..\includes\uart.h"
+	"..\includes\gpio.h"
+	"..\..\Printf\Printf.h"
+	"..\includes\mmu.h"
+	"..\includes\malloc.h"
+
+1413001194 d:\inti\embedded\ucos-ii_atc - copy\s3c6410\includes\config.h
+
+1217491238 d:\inti\embedded\ucos-ii_atc - copy\printf\printf.h
+
+1267511124 d:\inti\embedded\ucos-ii_atc - copy\s3c6410\includes\mmu.h
+
+1412997754 d:\inti\embedded\ucos-ii_atc - copy\s3c6410\includes\malloc.h
+
+1498636840 source:d:\inti\embedded\ucos-ii_atc - copy\s3c6410\source\main_atc.c
+	"..\..\uCOS_II\SOURCE\ucos_ii.h"
+	"..\includes\s3c64x0.h"
+	"..\includes\config.h"
+	"..\..\uCOS_II\API\app_cfg.h"
+	"..\includes\uart.h"
+	"..\includes\gpio.h"
+	"..\..\Printf\Printf.h"
+	"..\includes\mmu.h"
+	"..\includes\malloc.h"
+
+1413394390 source:d:\inti\embedded\ucos-ii_atc - copy\s3c6410\source\malloc.c
+	<stdio.h>
+	"..\includes\config.h"
+	"..\includes\uart.h"
+	"..\..\uCOS_II\SOURCE\ucos_ii.h"
+
+1413374196 source:d:\inti\embedded\ucos-ii_atc - copy\s3c6410\source\mmu.c
+	"..\includes\uart.h"
+	"..\includes\typedef1.h"
+	"..\includes\mmu.h"
+	"..\includes\config.h"
+
+1413374214 source:d:\inti\embedded\ucos-ii_atc - copy\s3c6410\source\speed.c
+	"..\includes\typedef1.h"
+	"..\includes\config.h"
+	"..\includes\s3c64x0.h"
+
+1413374240 source:d:\inti\embedded\ucos-ii_atc - copy\s3c6410\source\timer.c
+	"..\includes\typedef1.h"
+	"..\includes\config.h"
+	"..\includes\s3c64x0.h"
+	"..\..\uCOS_II\SOURCE\ucos_ii.h"
+	"..\includes\uart.h"
+
+1413374262 source:d:\inti\embedded\ucos-ii_atc - copy\s3c6410\source\uart.c
+	<stdarg.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	"..\includes\config.h"
+	"..\includes\typedef1.h"
+	"..\includes\s3c64x0.h"
+	"..\..\uCOS_II\SOURCE\ucos_ii.h"
+
+1336564666 source:d:\inti\embedded\ucos-ii_atc - copy\ucos_ii\arm\os_cpu_a.s
+
+1413374282 source:d:\inti\embedded\ucos-ii_atc - copy\ucos_ii\arm\os_cpu_c.c
+	"..\SOURCE\ucos_ii.h"
+
+1412937450 source:d:\inti\embedded\ucos-ii_atc - copy\ucos_ii\source\api\os_api.c
+	"os_api.h"
+
+1413374340 d:\inti\embedded\ucos-ii_atc - copy\ucos_ii\source\api\os_api.h
+	"..\ucos_ii.h"
+	"..\..\..\S3C6410\includes\config.h"
+
+1333618068 source:d:\inti\embedded\ucos-ii_atc - copy\ucos_ii\source\os_core.c
+	"ucos_ii.h"
+
+1413374358 source:d:\inti\embedded\ucos-ii_atc - copy\ucos_ii\source\os_dbg_r.c
+	"ucos_ii.h"
+
+1333613300 source:d:\inti\embedded\ucos-ii_atc - copy\ucos_ii\source\os_flag.c
+	"ucos_ii.h"
+
+1333613324 source:d:\inti\embedded\ucos-ii_atc - copy\ucos_ii\source\os_mbox.c
+	"ucos_ii.h"
+
+1333613340 source:d:\inti\embedded\ucos-ii_atc - copy\ucos_ii\source\os_mem.c
+	"ucos_ii.h"
+
+1333613356 source:d:\inti\embedded\ucos-ii_atc - copy\ucos_ii\source\os_mutex.c
+	"ucos_ii.h"
+
+1333613372 source:d:\inti\embedded\ucos-ii_atc - copy\ucos_ii\source\os_q.c
+	"ucos_ii.h"
+
+1333613384 source:d:\inti\embedded\ucos-ii_atc - copy\ucos_ii\source\os_sem.c
+	"ucos_ii.h"
+
+1333613400 source:d:\inti\embedded\ucos-ii_atc - copy\ucos_ii\source\os_task.c
+	"ucos_ii.h"
+
+1333613412 source:d:\inti\embedded\ucos-ii_atc - copy\ucos_ii\source\os_time.c
+	"ucos_ii.h"
+
+1333613424 source:d:\inti\embedded\ucos-ii_atc - copy\ucos_ii\source\os_tmr.c
+	"ucos_ii.h"
+
+1413373690 source:d:\inti\embedded\ucos-ii_atc - final\printf\printf.c
+	<stdarg.h>
+	"..\uCOS_II\SOURCE\ucos_ii.h"
+	<stdio.h>
+	"..\uCOS_II\API\app_cfg.h"
+	"..\S3C6410\includes\uart.h"
+
+1413373616 d:\inti\embedded\ucos-ii_atc - final\ucos_ii\source\ucos_ii.h
+	"os_cfg.h"
+	"..\arm\OS_CPU.H"
+
+1414224722 d:\inti\embedded\ucos-ii_atc - final\ucos_ii\source\os_cfg.h
+
+1217556108 d:\inti\embedded\ucos-ii_atc - final\ucos_ii\arm\os_cpu.h
+
+1497497121 d:\inti\embedded\ucos-ii_atc - final\ucos_ii\api\app_cfg.h
+	"app_cfg_atc.h"
+
+1498638688 d:\inti\embedded\ucos-ii_atc - final\ucos_ii\api\app_cfg_atc.h
+
+1333816222 d:\inti\embedded\ucos-ii_atc - final\s3c6410\includes\uart.h
+
+1414607430 source:d:\inti\embedded\ucos-ii_atc - final\s3c6410\source\6410init.s
+
+1336564666 source:d:\inti\embedded\ucos-ii_atc - final\s3c6410\source\6410slib.s
+
+1498028564 source:d:\inti\embedded\ucos-ii_atc - final\s3c6410\source\gpio.c
+	"..\includes\gpio.h"
+
+1498028964 d:\inti\embedded\ucos-ii_atc - final\s3c6410\includes\gpio.h
+	"s3c64x0.h"
+
+1338049476 d:\inti\embedded\ucos-ii_atc - final\s3c6410\includes\s3c64x0.h
+	"typedef1.h"
+
+1333616628 d:\inti\embedded\ucos-ii_atc - final\s3c6410\includes\typedef1.h
+
+1415187254 source:d:\inti\embedded\ucos-ii_atc - final\s3c6410\source\main.c
+	"..\..\uCOS_II\SOURCE\ucos_ii.h"
+	"..\includes\s3c64x0.h"
+	"..\includes\config.h"
+	"..\..\uCOS_II\API\app_cfg.h"
+	"..\includes\uart.h"
+	"..\includes\gpio.h"
+	"..\..\Printf\Printf.h"
+	"..\includes\mmu.h"
+	"..\includes\malloc.h"
+
+1413001194 d:\inti\embedded\ucos-ii_atc - final\s3c6410\includes\config.h
+
+1217491238 d:\inti\embedded\ucos-ii_atc - final\printf\printf.h
+
+1267511124 d:\inti\embedded\ucos-ii_atc - final\s3c6410\includes\mmu.h
+
+1412997754 d:\inti\embedded\ucos-ii_atc - final\s3c6410\includes\malloc.h
+
+1413394390 source:d:\inti\embedded\ucos-ii_atc - final\s3c6410\source\malloc.c
+	<stdio.h>
+	"..\includes\config.h"
+	"..\includes\uart.h"
+	"..\..\uCOS_II\SOURCE\ucos_ii.h"
+
+1413374196 source:d:\inti\embedded\ucos-ii_atc - final\s3c6410\source\mmu.c
+	"..\includes\uart.h"
+	"..\includes\typedef1.h"
+	"..\includes\mmu.h"
+	"..\includes\config.h"
+
+1413374214 source:d:\inti\embedded\ucos-ii_atc - final\s3c6410\source\speed.c
+	"..\includes\typedef1.h"
+	"..\includes\config.h"
+	"..\includes\s3c64x0.h"
+
+1413374240 source:d:\inti\embedded\ucos-ii_atc - final\s3c6410\source\timer.c
+	"..\includes\typedef1.h"
+	"..\includes\config.h"
+	"..\includes\s3c64x0.h"
+	"..\..\uCOS_II\SOURCE\ucos_ii.h"
+	"..\includes\uart.h"
+
+1413374262 source:d:\inti\embedded\ucos-ii_atc - final\s3c6410\source\uart.c
+	<stdarg.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	"..\includes\config.h"
+	"..\includes\typedef1.h"
+	"..\includes\s3c64x0.h"
+	"..\..\uCOS_II\SOURCE\ucos_ii.h"
+
+1336564666 source:d:\inti\embedded\ucos-ii_atc - final\ucos_ii\arm\os_cpu_a.s
+
+1413374282 source:d:\inti\embedded\ucos-ii_atc - final\ucos_ii\arm\os_cpu_c.c
+	"..\SOURCE\ucos_ii.h"
+
+1412937450 source:d:\inti\embedded\ucos-ii_atc - final\ucos_ii\source\api\os_api.c
+	"os_api.h"
+
+1413374340 d:\inti\embedded\ucos-ii_atc - final\ucos_ii\source\api\os_api.h
+	"..\ucos_ii.h"
+	"..\..\..\S3C6410\includes\config.h"
+
+1333618068 source:d:\inti\embedded\ucos-ii_atc - final\ucos_ii\source\os_core.c
+	"ucos_ii.h"
+
+1413374358 source:d:\inti\embedded\ucos-ii_atc - final\ucos_ii\source\os_dbg_r.c
+	"ucos_ii.h"
+
+1333613300 source:d:\inti\embedded\ucos-ii_atc - final\ucos_ii\source\os_flag.c
+	"ucos_ii.h"
+
+1333613324 source:d:\inti\embedded\ucos-ii_atc - final\ucos_ii\source\os_mbox.c
+	"ucos_ii.h"
+
+1333613340 source:d:\inti\embedded\ucos-ii_atc - final\ucos_ii\source\os_mem.c
+	"ucos_ii.h"
+
+1333613356 source:d:\inti\embedded\ucos-ii_atc - final\ucos_ii\source\os_mutex.c
+	"ucos_ii.h"
+
+1333613372 source:d:\inti\embedded\ucos-ii_atc - final\ucos_ii\source\os_q.c
+	"ucos_ii.h"
+
+1333613384 source:d:\inti\embedded\ucos-ii_atc - final\ucos_ii\source\os_sem.c
+	"ucos_ii.h"
+
+1333613400 source:d:\inti\embedded\ucos-ii_atc - final\ucos_ii\source\os_task.c
+	"ucos_ii.h"
+
+1333613412 source:d:\inti\embedded\ucos-ii_atc - final\ucos_ii\source\os_time.c
+	"ucos_ii.h"
+
+1333613424 source:d:\inti\embedded\ucos-ii_atc - final\ucos_ii\source\os_tmr.c
+	"ucos_ii.h"
+
+1498803804 source:d:\inti\embedded\ucos-ii_atc - final\s3c6410\source\main_atc.c
+	"..\..\uCOS_II\SOURCE\ucos_ii.h"
+	"..\includes\s3c64x0.h"
+	"..\includes\config.h"
+	"..\..\uCOS_II\API\app_cfg.h"
+	"..\includes\uart.h"
+	"..\includes\gpio.h"
+	"..\..\Printf\Printf.h"
+	"..\includes\mmu.h"
+	"..\includes\malloc.h"
+
+1413373690 source:d:\inti\embedded\ucos-ii_atc - gui\printf\printf.c
+	<stdarg.h>
+	"..\uCOS_II\SOURCE\ucos_ii.h"
+	<stdio.h>
+	"..\uCOS_II\API\app_cfg.h"
+	"..\S3C6410\includes\uart.h"
+
+1413373616 d:\inti\embedded\ucos-ii_atc - gui\ucos_ii\source\ucos_ii.h
+	"os_cfg.h"
+	"..\arm\OS_CPU.H"
+
+1414224722 d:\inti\embedded\ucos-ii_atc - gui\ucos_ii\source\os_cfg.h
+
+1217556108 d:\inti\embedded\ucos-ii_atc - gui\ucos_ii\arm\os_cpu.h
+
+1497497121 d:\inti\embedded\ucos-ii_atc - gui\ucos_ii\api\app_cfg.h
+	"app_cfg_atc.h"
+
+1499263622 d:\inti\embedded\ucos-ii_atc - gui\ucos_ii\api\app_cfg_atc.h
+
+1333816222 d:\inti\embedded\ucos-ii_atc - gui\s3c6410\includes\uart.h
+
+1414607430 source:d:\inti\embedded\ucos-ii_atc - gui\s3c6410\source\6410init.s
+
+1336564666 source:d:\inti\embedded\ucos-ii_atc - gui\s3c6410\source\6410slib.s
+
+1499263624 source:d:\inti\embedded\ucos-ii_atc - gui\s3c6410\source\gpio.c
+	"..\includes\gpio.h"
+
+1499067414 d:\inti\embedded\ucos-ii_atc - gui\s3c6410\includes\gpio.h
+	"s3c64x0.h"
+
+1338049476 d:\inti\embedded\ucos-ii_atc - gui\s3c6410\includes\s3c64x0.h
+	"typedef1.h"
+
+1333616628 d:\inti\embedded\ucos-ii_atc - gui\s3c6410\includes\typedef1.h
+
+1415187254 source:d:\inti\embedded\ucos-ii_atc - gui\s3c6410\source\main.c
+	"..\..\uCOS_II\SOURCE\ucos_ii.h"
+	"..\includes\s3c64x0.h"
+	"..\includes\config.h"
+	"..\..\uCOS_II\API\app_cfg.h"
+	"..\includes\uart.h"
+	"..\includes\gpio.h"
+	"..\..\Printf\Printf.h"
+	"..\includes\mmu.h"
+	"..\includes\malloc.h"
+
+1413001194 d:\inti\embedded\ucos-ii_atc - gui\s3c6410\includes\config.h
+
+1217491238 d:\inti\embedded\ucos-ii_atc - gui\printf\printf.h
+
+1267511124 d:\inti\embedded\ucos-ii_atc - gui\s3c6410\includes\mmu.h
+
+1412997754 d:\inti\embedded\ucos-ii_atc - gui\s3c6410\includes\malloc.h
+
+1413394390 source:d:\inti\embedded\ucos-ii_atc - gui\s3c6410\source\malloc.c
+	<stdio.h>
+	"..\includes\config.h"
+	"..\includes\uart.h"
+	"..\..\uCOS_II\SOURCE\ucos_ii.h"
+
+1413374196 source:d:\inti\embedded\ucos-ii_atc - gui\s3c6410\source\mmu.c
+	"..\includes\uart.h"
+	"..\includes\typedef1.h"
+	"..\includes\mmu.h"
+	"..\includes\config.h"
+
+1413374214 source:d:\inti\embedded\ucos-ii_atc - gui\s3c6410\source\speed.c
+	"..\includes\typedef1.h"
+	"..\includes\config.h"
+	"..\includes\s3c64x0.h"
+
+1413374240 source:d:\inti\embedded\ucos-ii_atc - gui\s3c6410\source\timer.c
+	"..\includes\typedef1.h"
+	"..\includes\config.h"
+	"..\includes\s3c64x0.h"
+	"..\..\uCOS_II\SOURCE\ucos_ii.h"
+	"..\includes\uart.h"
+
+1413374262 source:d:\inti\embedded\ucos-ii_atc - gui\s3c6410\source\uart.c
+	<stdarg.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	"..\includes\config.h"
+	"..\includes\typedef1.h"
+	"..\includes\s3c64x0.h"
+	"..\..\uCOS_II\SOURCE\ucos_ii.h"
+
+1336564666 source:d:\inti\embedded\ucos-ii_atc - gui\ucos_ii\arm\os_cpu_a.s
+
+1413374282 source:d:\inti\embedded\ucos-ii_atc - gui\ucos_ii\arm\os_cpu_c.c
+	"..\SOURCE\ucos_ii.h"
+
+1412937450 source:d:\inti\embedded\ucos-ii_atc - gui\ucos_ii\source\api\os_api.c
+	"os_api.h"
+
+1413374340 d:\inti\embedded\ucos-ii_atc - gui\ucos_ii\source\api\os_api.h
+	"..\ucos_ii.h"
+	"..\..\..\S3C6410\includes\config.h"
+
+1333618068 source:d:\inti\embedded\ucos-ii_atc - gui\ucos_ii\source\os_core.c
+	"ucos_ii.h"
+
+1413374358 source:d:\inti\embedded\ucos-ii_atc - gui\ucos_ii\source\os_dbg_r.c
+	"ucos_ii.h"
+
+1333613300 source:d:\inti\embedded\ucos-ii_atc - gui\ucos_ii\source\os_flag.c
+	"ucos_ii.h"
+
+1333613324 source:d:\inti\embedded\ucos-ii_atc - gui\ucos_ii\source\os_mbox.c
+	"ucos_ii.h"
+
+1333613340 source:d:\inti\embedded\ucos-ii_atc - gui\ucos_ii\source\os_mem.c
+	"ucos_ii.h"
+
+1333613356 source:d:\inti\embedded\ucos-ii_atc - gui\ucos_ii\source\os_mutex.c
+	"ucos_ii.h"
+
+1333613372 source:d:\inti\embedded\ucos-ii_atc - gui\ucos_ii\source\os_q.c
+	"ucos_ii.h"
+
+1333613384 source:d:\inti\embedded\ucos-ii_atc - gui\ucos_ii\source\os_sem.c
+	"ucos_ii.h"
+
+1333613400 source:d:\inti\embedded\ucos-ii_atc - gui\ucos_ii\source\os_task.c
+	"ucos_ii.h"
+
+1333613412 source:d:\inti\embedded\ucos-ii_atc - gui\ucos_ii\source\os_time.c
+	"ucos_ii.h"
+
+1333613424 source:d:\inti\embedded\ucos-ii_atc - gui\ucos_ii\source\os_tmr.c
+	"ucos_ii.h"
+
+1499304267 source:d:\inti\embedded\ucos-ii_atc - gui\s3c6410\source\main_atc.c
+	"..\..\uCOS_II\SOURCE\ucos_ii.h"
+	"..\includes\s3c64x0.h"
+	"..\includes\config.h"
+	"..\..\uCOS_II\API\app_cfg.h"
+	"..\includes\uart.h"
+	"..\includes\gpio.h"
+	"..\..\Printf\Printf.h"
+	"..\includes\mmu.h"
+	"..\includes\malloc.h"
+
+1413373690 source:d:\inti\embedded\ucos-ii_atc - gui - final\printf\printf.c
+	<stdarg.h>
+	"..\uCOS_II\SOURCE\ucos_ii.h"
+	<stdio.h>
+	"..\uCOS_II\API\app_cfg.h"
+	"..\S3C6410\includes\uart.h"
+
+1413373616 d:\inti\embedded\ucos-ii_atc - gui - final\ucos_ii\source\ucos_ii.h
+	"os_cfg.h"
+	"..\arm\OS_CPU.H"
+
+1414224722 d:\inti\embedded\ucos-ii_atc - gui - final\ucos_ii\source\os_cfg.h
+
+1217556108 d:\inti\embedded\ucos-ii_atc - gui - final\ucos_ii\arm\os_cpu.h
+
+1497497121 d:\inti\embedded\ucos-ii_atc - gui - final\ucos_ii\api\app_cfg.h
+	"app_cfg_atc.h"
+
+1499621593 d:\inti\embedded\ucos-ii_atc - gui - final\ucos_ii\api\app_cfg_atc.h
+
+1333816222 d:\inti\embedded\ucos-ii_atc - gui - final\s3c6410\includes\uart.h
+
+1414607430 source:d:\inti\embedded\ucos-ii_atc - gui - final\s3c6410\source\6410init.s
+
+1336564666 source:d:\inti\embedded\ucos-ii_atc - gui - final\s3c6410\source\6410slib.s
+
+1499507713 source:d:\inti\embedded\ucos-ii_atc - gui - final\s3c6410\source\gpio.c
+	"..\includes\gpio.h"
+
+1499067414 d:\inti\embedded\ucos-ii_atc - gui - final\s3c6410\includes\gpio.h
+	"s3c64x0.h"
+
+1338049476 d:\inti\embedded\ucos-ii_atc - gui - final\s3c6410\includes\s3c64x0.h
+	"typedef1.h"
+
+1333616628 d:\inti\embedded\ucos-ii_atc - gui - final\s3c6410\includes\typedef1.h
+
+1415187254 source:d:\inti\embedded\ucos-ii_atc - gui - final\s3c6410\source\main.c
+	"..\..\uCOS_II\SOURCE\ucos_ii.h"
+	"..\includes\s3c64x0.h"
+	"..\includes\config.h"
+	"..\..\uCOS_II\API\app_cfg.h"
+	"..\includes\uart.h"
+	"..\includes\gpio.h"
+	"..\..\Printf\Printf.h"
+	"..\includes\mmu.h"
+	"..\includes\malloc.h"
+
+1413001194 d:\inti\embedded\ucos-ii_atc - gui - final\s3c6410\includes\config.h
+
+1217491238 d:\inti\embedded\ucos-ii_atc - gui - final\printf\printf.h
+
+1267511124 d:\inti\embedded\ucos-ii_atc - gui - final\s3c6410\includes\mmu.h
+
+1412997754 d:\inti\embedded\ucos-ii_atc - gui - final\s3c6410\includes\malloc.h
+
+1413394390 source:d:\inti\embedded\ucos-ii_atc - gui - final\s3c6410\source\malloc.c
+	<stdio.h>
+	"..\includes\config.h"
+	"..\includes\uart.h"
+	"..\..\uCOS_II\SOURCE\ucos_ii.h"
+
+1413374196 source:d:\inti\embedded\ucos-ii_atc - gui - final\s3c6410\source\mmu.c
+	"..\includes\uart.h"
+	"..\includes\typedef1.h"
+	"..\includes\mmu.h"
+	"..\includes\config.h"
+
+1413374214 source:d:\inti\embedded\ucos-ii_atc - gui - final\s3c6410\source\speed.c
+	"..\includes\typedef1.h"
+	"..\includes\config.h"
+	"..\includes\s3c64x0.h"
+
+1413374240 source:d:\inti\embedded\ucos-ii_atc - gui - final\s3c6410\source\timer.c
+	"..\includes\typedef1.h"
+	"..\includes\config.h"
+	"..\includes\s3c64x0.h"
+	"..\..\uCOS_II\SOURCE\ucos_ii.h"
+	"..\includes\uart.h"
+
+1413374262 source:d:\inti\embedded\ucos-ii_atc - gui - final\s3c6410\source\uart.c
+	<stdarg.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	"..\includes\config.h"
+	"..\includes\typedef1.h"
+	"..\includes\s3c64x0.h"
+	"..\..\uCOS_II\SOURCE\ucos_ii.h"
+
+1336564666 source:d:\inti\embedded\ucos-ii_atc - gui - final\ucos_ii\arm\os_cpu_a.s
+
+1413374282 source:d:\inti\embedded\ucos-ii_atc - gui - final\ucos_ii\arm\os_cpu_c.c
+	"..\SOURCE\ucos_ii.h"
+
+1412937450 source:d:\inti\embedded\ucos-ii_atc - gui - final\ucos_ii\source\api\os_api.c
+	"os_api.h"
+
+1413374340 d:\inti\embedded\ucos-ii_atc - gui - final\ucos_ii\source\api\os_api.h
+	"..\ucos_ii.h"
+	"..\..\..\S3C6410\includes\config.h"
+
+1333618068 source:d:\inti\embedded\ucos-ii_atc - gui - final\ucos_ii\source\os_core.c
+	"ucos_ii.h"
+
+1413374358 source:d:\inti\embedded\ucos-ii_atc - gui - final\ucos_ii\source\os_dbg_r.c
+	"ucos_ii.h"
+
+1333613300 source:d:\inti\embedded\ucos-ii_atc - gui - final\ucos_ii\source\os_flag.c
+	"ucos_ii.h"
+
+1333613324 source:d:\inti\embedded\ucos-ii_atc - gui - final\ucos_ii\source\os_mbox.c
+	"ucos_ii.h"
+
+1333613340 source:d:\inti\embedded\ucos-ii_atc - gui - final\ucos_ii\source\os_mem.c
+	"ucos_ii.h"
+
+1333613356 source:d:\inti\embedded\ucos-ii_atc - gui - final\ucos_ii\source\os_mutex.c
+	"ucos_ii.h"
+
+1333613372 source:d:\inti\embedded\ucos-ii_atc - gui - final\ucos_ii\source\os_q.c
+	"ucos_ii.h"
+
+1333613384 source:d:\inti\embedded\ucos-ii_atc - gui - final\ucos_ii\source\os_sem.c
+	"ucos_ii.h"
+
+1333613400 source:d:\inti\embedded\ucos-ii_atc - gui - final\ucos_ii\source\os_task.c
+	"ucos_ii.h"
+
+1333613412 source:d:\inti\embedded\ucos-ii_atc - gui - final\ucos_ii\source\os_time.c
+	"ucos_ii.h"
+
+1333613424 source:d:\inti\embedded\ucos-ii_atc - gui - final\ucos_ii\source\os_tmr.c
+	"ucos_ii.h"
+
+1499621593 source:d:\inti\embedded\ucos-ii_atc - gui - final\s3c6410\source\main_atc.c
+	"..\..\uCOS_II\SOURCE\ucos_ii.h"
+	"..\includes\s3c64x0.h"
+	"..\includes\config.h"
+	"..\..\uCOS_II\API\app_cfg.h"
+	"..\includes\uart.h"
+	"..\includes\gpio.h"
+	"..\..\Printf\Printf.h"
+	"..\includes\mmu.h"
+	"..\includes\malloc.h"
+

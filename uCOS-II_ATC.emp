@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<emIDE_project_file>
+	<FileVersion major="1" minor="7" />
+	<Project>
+		<Option title="uCOS-II_ATC" />
+		<Option pch_mode="2" />
+		<Option compiler="armelfgcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/uCOS-II_Semaphore" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="armelfgcc" />
+				<Compiler>
+					<Add option="-mlittle-endian" />
+					<Add option="-g" />
+					<Add option="-mcpu=arm1176jzf-s" />
+					<Add option="-DDEBUG=1" />
+					<Add directory="Inc" />
+				</Compiler>
+				<Linker>
+					<Add option="-nostartfiles" />
+					<Add option="-Wl,-e__ENTRY" />
+					<Add option="-Wl,-Map" />
+					<Add option="-Wl,${TARGET_OUTPUT_FILE}.map" />
+					<Add option="-Wl,--gc-sections" />
+					<Add option="-n" />
+					<Add option="-Wl,-cref" />
+					<Add option="-mcpu=arm1176jzf-s" />
+					<Add option="-TuCOS_6410.ld" />
+				</Linker>
+				<PostOutput>
+					<ConvertedOutput PostOutputCreate="1" />
+					<ConvertedOutput PostOutputType="BIN" />
+					<ConvertedOutput PostOutputFile="${TARGET_OUTPUT_DIR}${TARGET_OUTPUT_BASENAME}" />
+				</PostOutput>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/uCOS-II_Semaphore" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="armelfgcc" />
+				<Compiler>
+					<Add option="-mlittle-endian" />
+					<Add option="-O2" />
+					<Add option="-mcpu=arm1176jzf-s" />
+					<Add directory="Inc" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add option="-nostartfiles" />
+					<Add option="-Wl,-e__ENTRY" />
+					<Add option="-Wl,-Map" />
+					<Add option="-Wl,${TARGET_OUTPUT_FILE}.map" />
+					<Add option="-Wl,--gc-sections" />
+					<Add option="-n" />
+					<Add option="-Wl,-cref" />
+					<Add option="-mcpu=arm1176jzf-s" />
+					<Add option="-TuCOS_6410.ld" />
+				</Linker>
+				<PostOutput>
+					<ConvertedOutput PostOutputCreate="1" />
+					<ConvertedOutput PostOutputType="BIN" />
+					<ConvertedOutput PostOutputFile="${TARGET_OUTPUT_DIR}${TARGET_OUTPUT_BASENAME}" />
+				</PostOutput>
+			</Target>
+		</Build>
+		<PostOutput>
+			<ConvertedOutput PostOutputCreate="0" />
+			<ConvertedOutput PostOutputType="HEX" />
+			<ConvertedOutput PostOutputFile="${TARGET_OUTPUT_DIR}${TARGET_OUTPUT_BASENAME}" />
+		</PostOutput>
+		<Unit filename="Printf/Printf.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Printf/Printf.h" />
+		<Unit filename="S3C6410/includes/config.h" />
+		<Unit filename="S3C6410/includes/gpio.h" />
+		<Unit filename="S3C6410/includes/malloc.h" />
+		<Unit filename="S3C6410/includes/mmu.h" />
+		<Unit filename="S3C6410/includes/s3c64x0.h" />
+		<Unit filename="S3C6410/includes/typedef1.h" />
+		<Unit filename="S3C6410/includes/uart.h" />
+		<Unit filename="S3C6410/source/6410init.s" />
+		<Unit filename="S3C6410/source/6410slib.s" />
+		<Unit filename="S3C6410/source/gpio.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="S3C6410/source/main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="S3C6410/source/main_atc.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="S3C6410/source/malloc.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="S3C6410/source/mmu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="S3C6410/source/speed.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="S3C6410/source/timer.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="S3C6410/source/uart.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="uCOS_II/API/app_cfg.h" />
+		<Unit filename="uCOS_II/API/app_cfg_atc.h" />
+		<Unit filename="uCOS_II/SOURCE/API/os_api.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="uCOS_II/SOURCE/API/os_api.h" />
+		<Unit filename="uCOS_II/SOURCE/os_cfg.h" />
+		<Unit filename="uCOS_II/SOURCE/os_core.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="uCOS_II/SOURCE/os_dbg_r.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="uCOS_II/SOURCE/os_flag.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="uCOS_II/SOURCE/os_mbox.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="uCOS_II/SOURCE/os_mem.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="uCOS_II/SOURCE/os_mutex.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="uCOS_II/SOURCE/os_q.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="uCOS_II/SOURCE/os_sem.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="uCOS_II/SOURCE/os_task.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="uCOS_II/SOURCE/os_time.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="uCOS_II/SOURCE/os_tmr.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="uCOS_II/SOURCE/ucos_ii.h" />
+		<Unit filename="uCOS_II/arm/OS_CPU.H" />
+		<Unit filename="uCOS_II/arm/Os_cpu_c.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="uCOS_II/arm/os_cpu_a.S" />
+		<Extensions>
+			<projectwizard TargetDevice="S3C4650" />
+			<code_completion />
+			<debugger>
+				<remote_debugging>
+					<options conn_type="1806320574" ip_address="localhost" ip_port="2331" remote_server="J-Link GDB Server" Break_at_Main="0" Break_at_Main_Symbol="main" />
+				</remote_debugging>
+				<remote_debugging target="Debug">
+					<options conn_type="0" serial_baud="115200" ip_address="localhost" ip_port="2331" remote_server="Other (External tool)" Break_at_Main="1" Break_at_Main_Symbol="main" additional_cmds="monitor reset&#x0A;load" />
+				</remote_debugging>
+				<remote_debugging target="Release">
+					<options conn_type="0" serial_baud="115200" ip_address="localhost" ip_port="2331" remote_server="Other (External tool)" Break_at_Main="1" Break_at_Main_Symbol="main" additional_cmds="monitor reset&#x0A;load" />
+				</remote_debugging>
+			</debugger>
+			<J-Link>
+				<GDBServer TargetName="Debug">
+					<CmdOption UseGDBServer="0" />
+					<CmdOption TargetDevice="S3C4650" />
+					<CmdOption TargetInterface="0" />
+					<CmdOption InterfaceSpeed="4000" />
+					<CmdOption TargetEndian="0" />
+					<CmdOption OverrideExe="0" Filename="" />
+					<CmdOption StartServer="1" />
+					<CmdOption CloseServer="1" />
+					<CmdOption ServerIP="localhost" />
+					<CmdOption ServerPort="2331" />
+					<CmdOption UseAdvancedOptions="0" />
+					<CmdOption SelectJLink="" />
+					<CmdOption InitRegs="1" />
+					<CmdOption LocalhostOnly="1" />
+					<CmdOption Log="0" Filename="" />
+					<CmdOption Silent="0" />
+					<CmdOption StayOnTop="0" />
+					<CmdOption VerifyDownload="0" />
+					<CmdOption NoTargetTimeout="0" />
+					<CmdOption JTAGConf="0" IRPre="0" DRPre="0" />
+					<CmdOption JLinkScript="0" Filename="" />
+					<CmdOption JLinkSettings="0" Filename="" />
+					<CmdOption GDBInit="0" Filename="" />
+					<CmdOption AdditionalOptions="" />
+				</GDBServer>
+				<GDBServer TargetName="Release">
+					<CmdOption UseGDBServer="0" />
+					<CmdOption TargetDevice="S3C4650" />
+					<CmdOption TargetInterface="0" />
+					<CmdOption InterfaceSpeed="4000" />
+					<CmdOption TargetEndian="0" />
+					<CmdOption OverrideExe="0" Filename="" />
+					<CmdOption StartServer="1" />
+					<CmdOption CloseServer="1" />
+					<CmdOption ServerIP="localhost" />
+					<CmdOption ServerPort="2331" />
+					<CmdOption UseAdvancedOptions="0" />
+					<CmdOption SelectJLink="" />
+					<CmdOption InitRegs="1" />
+					<CmdOption LocalhostOnly="1" />
+					<CmdOption Log="0" Filename="" />
+					<CmdOption Silent="0" />
+					<CmdOption StayOnTop="0" />
+					<CmdOption VerifyDownload="0" />
+					<CmdOption NoTargetTimeout="0" />
+					<CmdOption JTAGConf="0" IRPre="0" DRPre="0" />
+					<CmdOption JLinkScript="0" Filename="" />
+					<CmdOption JLinkSettings="0" Filename="" />
+					<CmdOption GDBInit="0" Filename="" />
+					<CmdOption AdditionalOptions="" />
+				</GDBServer>
+			</J-Link>
+		</Extensions>
+	</Project>
+</emIDE_project_file>
